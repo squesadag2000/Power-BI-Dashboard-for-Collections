@@ -1,4 +1,4 @@
-# Power-BI-Dashboard-for-Collections
+# Power BI Dashboard for Collections
 
 A Power BI dashboard for monitoring and analyzing debt collections operations, including portfolio aging, collections rate, agent performance, contact rate heatmap, and payment method analysis.
 
@@ -21,33 +21,22 @@ The dataset follows a **star schema** with 5 dimension tables and 4 fact tables,
 
 ### Dimension Tables
 
-| File | Rows | Description |
-|---|---|---|
-| `dim_customers.csv` | 1,000 | Customer info: country, segment, contact |
-| `dim_products.csv` | 5 | Product types: Credit Card, Loan, Mortgage, etc. |
-| `dim_agents.csv` | 10 | Collection agents across 3 teams |
-| `dim_payment_methods.csv` | 6 | Payment methods: ACH, Credit Card, Cash, etc. |
-| `dim_date.csv` | 731 | Calendar table 2024–2025 with day, week, month attributes |
+| File | Description |
+|---|---|
+| `dim_customers.csv`  | Customer info: country, segment, contact |
+| `dim_products.csv`  | Product types: Credit Card, Loan, Mortgage, etc. |
+| `dim_agents.csv`  | Collection agents across 3 teams |
+| `dim_payment_methods.csv`  | Payment methods: ACH, Credit Card, Cash, etc. |
+| `dim_date.csv`  | Calendar table 2024–2025 with day, week, month attributes |
 
 ### Fact Tables
 
 | File | Rows | Description |
 |---|---|---|
-| `fact_accounts.csv` | 800 | Delinquent accounts with DPD, overdue balance, aging bucket |
-| `fact_payments.csv` | ~918 | Processed payments with method and status |
-| `fact_calls.csv` | ~1,934 | Collection calls with hour, day, and result |
-| `fact_promises.csv` | ~723 | Payment promises with fulfillment status |
-
-### Relationships
-
-```
-dim_customers      ──── fact_accounts ──── dim_products
-dim_agents         ────      │
-dim_date           ────      │
-                        fact_payments ──── dim_payment_methods
-                        fact_calls
-                        fact_promises
-```
+| `fact_accounts.csv`  | Delinquent accounts with DPD, overdue balance, aging bucket |
+| `fact_payments.csv`  | Processed payments with method and status |
+| `fact_calls.csv`  | Collection calls with hour, day, and result |
+| `fact_promises.csv`  | Payment promises with fulfillment status |
 
 ---
 
@@ -81,7 +70,7 @@ collections-dashboard-powerbi/
 │   └── fact_promises.csv
 │
 ├── collections_dashboard.pbix
-└── README.md
+
 ```
 
 ---

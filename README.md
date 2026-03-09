@@ -52,25 +52,3 @@ The dataset follows a **star schema** with 5 dimension tables and 4 fact tables,
 | **Target Achievement %** | Amount Collected / Collection Target |
 
 ---
-
-##  Repository Structure
-
-```
-collections-dashboard-powerbi/
-│
-├── data/
-│   ├── dim_customers.csv
-│   ├── dim_products.csv
-│   ├── dim_agents.csv
-│   ├── dim_payment_methods.csv
-│   ├── dim_date.csv
-│   ├── fact_accounts.csv
-│   ├── fact_payments.csv
-│   ├── fact_calls.csv
-│   └── fact_promises.csv
-│
-├── collections_dashboard.pbix
-
-```
-
----

@@ -31,8 +31,8 @@ The dataset follows a **star schema** with 5 dimension tables and 4 fact tables,
 
 ### Fact Tables
 
-| File | Rows | Description |
-|---|---|---|
+| File | Description |
+|---|---|
 | `fact_accounts.csv`  | Delinquent accounts with DPD, overdue balance, aging bucket |
 | `fact_payments.csv`  | Processed payments with method and status |
 | `fact_calls.csv`  | Collection calls with hour, day, and result |

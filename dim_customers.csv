@@ -1,0 +1,1001 @@
+customer_id,full_name,country,segment,email,phone
+C0001,Ana Martinez,Chile,Basic,ana.martinez1@email.com,+13218196001
+C0002,Diego Cruz,Ecuador,Premium,diego.cruz2@email.com,+13863794026
+C0003,Roberto Vargas,Chile,Standard,roberto.vargas3@email.com,+15116155940
+C0004,Fernando Mendez,Costa Rica,Premium,fernando.mendez4@email.com,+11849593103
+C0005,Camila Perez,Colombia,Standard,camila.perez5@email.com,+16475255341
+C0006,Andrea Rodriguez,Peru,Standard,andrea.rodriguez6@email.com,+17648350305
+C0007,Miguel Vargas,Chile,Premium,miguel.vargas7@email.com,+19537672423
+C0008,Natalia Mendez,Dominican Republic,Basic,natalia.mendez8@email.com,+16965328710
+C0009,Ana Hernandez,Costa Rica,Standard,ana.hernandez9@email.com,+19166978480
+C0010,Ana Mendez,Guatemala,Basic,ana.mendez10@email.com,+11462704828
+C0011,Ana Reyes,Peru,Standard,ana.reyes11@email.com,+15288095701
+C0012,Patricia Reyes,Mexico,Standard,patricia.reyes12@email.com,+13911718227
+C0013,Natalia Rodriguez,Ecuador,Basic,natalia.rodriguez13@email.com,+19638346578
+C0014,Fernando Garcia,Chile,Standard,fernando.garcia14@email.com,+11509839301
+C0015,Maria Cruz,Mexico,Premium,maria.cruz15@email.com,+15183473829
+C0016,Pablo Ramirez,Panama,Standard,pablo.ramirez16@email.com,+16311656670
+C0017,Ana Lopez,Guatemala,VIP,ana.lopez17@email.com,+11333872624
+C0018,Fernando Cruz,Panama,Premium,fernando.cruz18@email.com,+18108013267
+C0019,Daniela Morales,Mexico,VIP,daniela.morales19@email.com,+12606474687
+C0020,Luis Morales,Chile,Basic,luis.morales20@email.com,+10980500978
+C0021,Jorge Rodriguez,Ecuador,Premium,jorge.rodriguez21@email.com,+11219136193
+C0022,Pablo Ortega,Dominican Republic,Premium,pablo.ortega22@email.com,+11699854353
+C0023,Andres Ruiz,Argentina,Standard,andres.ruiz23@email.com,+17510799118
+C0024,Diego Flores,Peru,Basic,diego.flores24@email.com,+15135427849
+C0025,Jorge Martinez,Colombia,Basic,jorge.martinez25@email.com,+12411824493
+C0026,Roberto Morales,Ecuador,Basic,roberto.morales26@email.com,+17401640052
+C0027,Andres Rodriguez,Ecuador,VIP,andres.rodriguez27@email.com,+16801128059
+C0028,Natalia Hernandez,Peru,VIP,natalia.hernandez28@email.com,+10450533158
+C0029,Isabel Ortega,Chile,Standard,isabel.ortega29@email.com,+12260256342
+C0030,Ana Ruiz,Panama,Premium,ana.ruiz30@email.com,+13375433036
+C0031,Roberto Vargas,Argentina,Premium,roberto.vargas31@email.com,+15868501429
+C0032,Andres Lopez,Dominican Republic,Premium,andres.lopez32@email.com,+16556981693
+C0033,Andres Lopez,Mexico,VIP,andres.lopez33@email.com,+18835615951
+C0034,Camila Flores,Costa Rica,Basic,camila.flores34@email.com,+15648236629
+C0035,Pablo Reyes,Ecuador,VIP,pablo.reyes35@email.com,+10443699577
+C0036,Fernando Morales,Peru,VIP,fernando.morales36@email.com,+11489513433
+C0037,Luis Martinez,Chile,Premium,luis.martinez37@email.com,+17917693676
+C0038,Valentina Hernandez,Colombia,Premium,valentina.hernandez38@email.com,+16328708317
+C0039,Luis Sanchez,Panama,Basic,luis.sanchez39@email.com,+19868727743
+C0040,Andres Flores,Chile,VIP,andres.flores40@email.com,+14714345581
+C0041,Luis Hernandez,Costa Rica,Standard,luis.hernandez41@email.com,+12316658760
+C0042,Diego Diaz,Dominican Republic,VIP,diego.diaz42@email.com,+10967054668
+C0043,Natalia Ortega,Panama,Standard,natalia.ortega43@email.com,+13467065627
+C0044,Luis Ortega,Costa Rica,Premium,luis.ortega44@email.com,+19901627204
+C0045,Miguel Torres,Panama,Standard,miguel.torres45@email.com,+15564641708
+C0046,Maria Gomez,Colombia,Standard,maria.gomez46@email.com,+10033092327
+C0047,Ana Castro,Panama,Standard,ana.castro47@email.com,+14529912419
+C0048,Carlos Reyes,Costa Rica,VIP,carlos.reyes48@email.com,+13193149190
+C0049,Patricia Mendez,Guatemala,VIP,patricia.mendez49@email.com,+11850671657
+C0050,Luis Diaz,Ecuador,Standard,luis.diaz50@email.com,+14987769453
+C0051,Juan Vargas,Chile,VIP,juan.vargas51@email.com,+17996507527
+C0052,Diego Gomez,Guatemala,Basic,diego.gomez52@email.com,+14948083136
+C0053,Daniela Mendez,Panama,Standard,daniela.mendez53@email.com,+17701436349
+C0054,Patricia Ramirez,Costa Rica,Basic,patricia.ramirez54@email.com,+18557444313
+C0055,Roberto Garcia,Chile,Standard,roberto.garcia55@email.com,+13749894134
+C0056,Valentina Gomez,Argentina,Standard,valentina.gomez56@email.com,+10824008427
+C0057,Ana Martinez,Panama,Basic,ana.martinez57@email.com,+17752047116
+C0058,Daniela Perez,Peru,Premium,daniela.perez58@email.com,+12941318699
+C0059,Andrea Cruz,Panama,VIP,andrea.cruz59@email.com,+17496499091
+C0060,Diego Morales,Colombia,Basic,diego.morales60@email.com,+12328120679
+C0061,Daniela Reyes,Chile,Premium,daniela.reyes61@email.com,+14471349361
+C0062,Natalia Cruz,Argentina,Standard,natalia.cruz62@email.com,+12102499471
+C0063,Fernando Reyes,Argentina,VIP,fernando.reyes63@email.com,+18877190659
+C0064,Andres Martinez,Chile,Premium,andres.martinez64@email.com,+19904902787
+C0065,Andres Rodriguez,Panama,VIP,andres.rodriguez65@email.com,+11756551256
+C0066,Daniela Reyes,Ecuador,VIP,daniela.reyes66@email.com,+10715451680
+C0067,Natalia Sanchez,Mexico,VIP,natalia.sanchez67@email.com,+13859770348
+C0068,Luis Reyes,Panama,VIP,luis.reyes68@email.com,+11093248086
+C0069,Juan Cruz,Panama,Premium,juan.cruz69@email.com,+11274846773
+C0070,Fernando Mendez,Costa Rica,Standard,fernando.mendez70@email.com,+13982146584
+C0071,Carlos Reyes,Dominican Republic,Basic,carlos.reyes71@email.com,+19727875588
+C0072,Miguel Sanchez,Chile,Basic,miguel.sanchez72@email.com,+13963605766
+C0073,Luis Ramirez,Peru,Premium,luis.ramirez73@email.com,+18951718702
+C0074,Isabel Hernandez,Panama,Premium,isabel.hernandez74@email.com,+14596158657
+C0075,Natalia Lopez,Chile,Premium,natalia.lopez75@email.com,+14316117240
+C0076,Maria Torres,Argentina,Premium,maria.torres76@email.com,+15562386922
+C0077,Sofia Perez,Dominican Republic,VIP,sofia.perez77@email.com,+13792374740
+C0078,Fernando Reyes,Colombia,Standard,fernando.reyes78@email.com,+17594647436
+C0079,Daniela Garcia,Costa Rica,Standard,daniela.garcia79@email.com,+19594406409
+C0080,Maria Ortega,Argentina,VIP,maria.ortega80@email.com,+13953394210
+C0081,Camila Sanchez,Dominican Republic,Premium,camila.sanchez81@email.com,+15214562328
+C0082,Patricia Flores,Peru,Basic,patricia.flores82@email.com,+14745171236
+C0083,Natalia Gomez,Costa Rica,Premium,natalia.gomez83@email.com,+10481754965
+C0084,Ana Cruz,Mexico,VIP,ana.cruz84@email.com,+19859317461
+C0085,Luis Lopez,Argentina,Premium,luis.lopez85@email.com,+17113826758
+C0086,Isabel Castro,Costa Rica,Standard,isabel.castro86@email.com,+11796405377
+C0087,Valentina Gomez,Guatemala,Premium,valentina.gomez87@email.com,+18506431713
+C0088,Andrea Martinez,Guatemala,Premium,andrea.martinez88@email.com,+13293183933
+C0089,Roberto Hernandez,Argentina,Premium,roberto.hernandez89@email.com,+12284210205
+C0090,Valentina Castro,Mexico,Basic,valentina.castro90@email.com,+12402681177
+C0091,Patricia Flores,Panama,Premium,patricia.flores91@email.com,+18390847007
+C0092,Miguel Diaz,Panama,Premium,miguel.diaz92@email.com,+17115921249
+C0093,Pablo Mendez,Costa Rica,Basic,pablo.mendez93@email.com,+19847896118
+C0094,Diego Diaz,Chile,VIP,diego.diaz94@email.com,+16576615654
+C0095,Patricia Hernandez,Colombia,VIP,patricia.hernandez95@email.com,+11116152809
+C0096,Natalia Mendez,Colombia,Basic,natalia.mendez96@email.com,+16560494519
+C0097,Jorge Morales,Panama,Standard,jorge.morales97@email.com,+13158514936
+C0098,Natalia Ortega,Dominican Republic,Premium,natalia.ortega98@email.com,+14024455022
+C0099,Pablo Ruiz,Peru,Premium,pablo.ruiz99@email.com,+10183667525
+C0100,Camila Torres,Mexico,Premium,camila.torres100@email.com,+12290147679
+C0101,Fernando Diaz,Chile,Basic,fernando.diaz101@email.com,+18156149784
+C0102,Maria Cruz,Dominican Republic,VIP,maria.cruz102@email.com,+10034324451
+C0103,Carlos Ramirez,Peru,VIP,carlos.ramirez103@email.com,+12683885160
+C0104,Isabel Martinez,Colombia,VIP,isabel.martinez104@email.com,+15969664160
+C0105,Roberto Rodriguez,Guatemala,VIP,roberto.rodriguez105@email.com,+11613696816
+C0106,Camila Torres,Guatemala,Standard,camila.torres106@email.com,+12181883552
+C0107,Valentina Garcia,Argentina,Standard,valentina.garcia107@email.com,+13292127799
+C0108,Fernando Castro,Guatemala,Basic,fernando.castro108@email.com,+12717744905
+C0109,Jorge Perez,Panama,Basic,jorge.perez109@email.com,+17005411998
+C0110,Miguel Sanchez,Panama,Premium,miguel.sanchez110@email.com,+19359782071
+C0111,Roberto Perez,Mexico,Standard,roberto.perez111@email.com,+13778892554
+C0112,Miguel Diaz,Dominican Republic,Basic,miguel.diaz112@email.com,+10515186449
+C0113,Luis Torres,Dominican Republic,Premium,luis.torres113@email.com,+12546291486
+C0114,Roberto Hernandez,Costa Rica,Premium,roberto.hernandez114@email.com,+18505423573
+C0115,Valentina Hernandez,Colombia,Standard,valentina.hernandez115@email.com,+14188805929
+C0116,Miguel Hernandez,Peru,Standard,miguel.hernandez116@email.com,+19270653794
+C0117,Fernando Cruz,Argentina,Standard,fernando.cruz117@email.com,+17359774688
+C0118,Isabel Rodriguez,Dominican Republic,Standard,isabel.rodriguez118@email.com,+12407581814
+C0119,Juan Rodriguez,Panama,Basic,juan.rodriguez119@email.com,+18261375060
+C0120,Miguel Flores,Chile,Basic,miguel.flores120@email.com,+16153051522
+C0121,Maria Reyes,Peru,VIP,maria.reyes121@email.com,+17790104328
+C0122,Andrea Flores,Colombia,VIP,andrea.flores122@email.com,+14341036971
+C0123,Ana Ramirez,Ecuador,Premium,ana.ramirez123@email.com,+19324609539
+C0124,Isabel Rodriguez,Ecuador,Premium,isabel.rodriguez124@email.com,+15188888067
+C0125,Maria Ruiz,Argentina,Basic,maria.ruiz125@email.com,+10515319520
+C0126,Patricia Mendez,Peru,Basic,patricia.mendez126@email.com,+17722170430
+C0127,Diego Lopez,Argentina,Basic,diego.lopez127@email.com,+18687403450
+C0128,Roberto Vargas,Guatemala,Premium,roberto.vargas128@email.com,+16676527758
+C0129,Andres Perez,Colombia,VIP,andres.perez129@email.com,+16928451154
+C0130,Camila Sanchez,Peru,VIP,camila.sanchez130@email.com,+17570596401
+C0131,Miguel Gomez,Mexico,Standard,miguel.gomez131@email.com,+12970213556
+C0132,Pablo Lopez,Panama,Standard,pablo.lopez132@email.com,+15571928565
+C0133,Andres Cruz,Mexico,Premium,andres.cruz133@email.com,+12786814473
+C0134,Andrea Reyes,Chile,VIP,andrea.reyes134@email.com,+11217271551
+C0135,Natalia Mendez,Argentina,Basic,natalia.mendez135@email.com,+12258313237
+C0136,Carlos Gomez,Panama,Basic,carlos.gomez136@email.com,+18291146786
+C0137,Isabel Castro,Peru,Premium,isabel.castro137@email.com,+15177852892
+C0138,Luis Diaz,Colombia,Premium,luis.diaz138@email.com,+18242253584
+C0139,Juan Vargas,Ecuador,Standard,juan.vargas139@email.com,+14249818299
+C0140,Luis Rodriguez,Dominican Republic,Basic,luis.rodriguez140@email.com,+10010943969
+C0141,Carlos Ramirez,Argentina,Basic,carlos.ramirez141@email.com,+17364710276
+C0142,Daniela Sanchez,Guatemala,Standard,daniela.sanchez142@email.com,+19255562588
+C0143,Ana Torres,Panama,Standard,ana.torres143@email.com,+11473210469
+C0144,Isabel Cruz,Guatemala,Standard,isabel.cruz144@email.com,+19532787747
+C0145,Carlos Perez,Ecuador,VIP,carlos.perez145@email.com,+17339500479
+C0146,Daniela Reyes,Colombia,Premium,daniela.reyes146@email.com,+16245650609
+C0147,Natalia Morales,Ecuador,Basic,natalia.morales147@email.com,+14168784991
+C0148,Luis Garcia,Guatemala,VIP,luis.garcia148@email.com,+15852398680
+C0149,Maria Lopez,Guatemala,Standard,maria.lopez149@email.com,+17872982595
+C0150,Sofia Ruiz,Dominican Republic,Basic,sofia.ruiz150@email.com,+15888794705
+C0151,Roberto Garcia,Dominican Republic,VIP,roberto.garcia151@email.com,+14097499309
+C0152,Daniela Rodriguez,Peru,VIP,daniela.rodriguez152@email.com,+13091307562
+C0153,Isabel Morales,Ecuador,VIP,isabel.morales153@email.com,+19702838578
+C0154,Miguel Torres,Panama,Standard,miguel.torres154@email.com,+18585497334
+C0155,Natalia Reyes,Argentina,Standard,natalia.reyes155@email.com,+14375758441
+C0156,Pablo Mendez,Costa Rica,VIP,pablo.mendez156@email.com,+15240415747
+C0157,Diego Morales,Ecuador,Basic,diego.morales157@email.com,+14219933083
+C0158,Valentina Lopez,Costa Rica,Premium,valentina.lopez158@email.com,+15712082677
+C0159,Diego Reyes,Argentina,Basic,diego.reyes159@email.com,+10193802620
+C0160,Miguel Ramirez,Argentina,Standard,miguel.ramirez160@email.com,+10049915478
+C0161,Jorge Ramirez,Ecuador,Standard,jorge.ramirez161@email.com,+17431527420
+C0162,Roberto Reyes,Peru,Standard,roberto.reyes162@email.com,+19668516122
+C0163,Daniela Torres,Mexico,Standard,daniela.torres163@email.com,+14637454990
+C0164,Andres Gomez,Mexico,Standard,andres.gomez164@email.com,+11742684145
+C0165,Andrea Cruz,Peru,Standard,andrea.cruz165@email.com,+17279568783
+C0166,Valentina Ortega,Ecuador,Premium,valentina.ortega166@email.com,+17851910883
+C0167,Pablo Mendez,Peru,Standard,pablo.mendez167@email.com,+15871397187
+C0168,Maria Sanchez,Ecuador,Standard,maria.sanchez168@email.com,+16790874064
+C0169,Carlos Morales,Mexico,Premium,carlos.morales169@email.com,+16518017046
+C0170,Sofia Hernandez,Guatemala,VIP,sofia.hernandez170@email.com,+16766182512
+C0171,Natalia Ruiz,Chile,Standard,natalia.ruiz171@email.com,+10047868633
+C0172,Fernando Gomez,Argentina,Standard,fernando.gomez172@email.com,+13106903311
+C0173,Andrea Lopez,Dominican Republic,VIP,andrea.lopez173@email.com,+10306738302
+C0174,Jorge Reyes,Dominican Republic,Standard,jorge.reyes174@email.com,+15995342836
+C0175,Camila Vargas,Ecuador,Premium,camila.vargas175@email.com,+19268705685
+C0176,Isabel Diaz,Argentina,Standard,isabel.diaz176@email.com,+16287334270
+C0177,Natalia Diaz,Ecuador,VIP,natalia.diaz177@email.com,+18263435175
+C0178,Juan Mendez,Mexico,Standard,juan.mendez178@email.com,+14699013983
+C0179,Daniela Morales,Argentina,Basic,daniela.morales179@email.com,+10331739363
+C0180,Natalia Torres,Costa Rica,Basic,natalia.torres180@email.com,+17854458771
+C0181,Daniela Torres,Guatemala,Standard,daniela.torres181@email.com,+15609320489
+C0182,Pablo Diaz,Peru,Basic,pablo.diaz182@email.com,+13536937854
+C0183,Daniela Ramirez,Peru,VIP,daniela.ramirez183@email.com,+15228728080
+C0184,Juan Lopez,Costa Rica,Premium,juan.lopez184@email.com,+12312038750
+C0185,Andrea Ortega,Panama,VIP,andrea.ortega185@email.com,+10088600848
+C0186,Camila Martinez,Peru,VIP,camila.martinez186@email.com,+11182339845
+C0187,Andres Ruiz,Guatemala,Premium,andres.ruiz187@email.com,+16793341016
+C0188,Miguel Ruiz,Mexico,VIP,miguel.ruiz188@email.com,+10217659180
+C0189,Valentina Morales,Argentina,VIP,valentina.morales189@email.com,+10148902503
+C0190,Pablo Hernandez,Colombia,VIP,pablo.hernandez190@email.com,+14293968562
+C0191,Juan Flores,Mexico,Basic,juan.flores191@email.com,+11631599965
+C0192,Carlos Vargas,Panama,VIP,carlos.vargas192@email.com,+13586629619
+C0193,Camila Cruz,Colombia,Premium,camila.cruz193@email.com,+14262655110
+C0194,Camila Sanchez,Argentina,Basic,camila.sanchez194@email.com,+11212678886
+C0195,Ana Martinez,Guatemala,Premium,ana.martinez195@email.com,+18199560466
+C0196,Juan Mendez,Dominican Republic,Standard,juan.mendez196@email.com,+18262244472
+C0197,Juan Rodriguez,Argentina,VIP,juan.rodriguez197@email.com,+16471543799
+C0198,Diego Sanchez,Peru,Premium,diego.sanchez198@email.com,+14065965756
+C0199,Andrea Hernandez,Guatemala,Basic,andrea.hernandez199@email.com,+19375265479
+C0200,Valentina Torres,Argentina,VIP,valentina.torres200@email.com,+16519398280
+C0201,Fernando Morales,Argentina,VIP,fernando.morales201@email.com,+11672434266
+C0202,Juan Sanchez,Dominican Republic,VIP,juan.sanchez202@email.com,+16886805891
+C0203,Ana Cruz,Peru,Basic,ana.cruz203@email.com,+19096561014
+C0204,Valentina Flores,Panama,Standard,valentina.flores204@email.com,+15679825071
+C0205,Camila Diaz,Colombia,Premium,camila.diaz205@email.com,+12545738757
+C0206,Ana Sanchez,Guatemala,VIP,ana.sanchez206@email.com,+11401051238
+C0207,Sofia Mendez,Guatemala,Standard,sofia.mendez207@email.com,+18673622660
+C0208,Andrea Morales,Dominican Republic,VIP,andrea.morales208@email.com,+16603341918
+C0209,Sofia Gomez,Chile,Basic,sofia.gomez209@email.com,+17147859696
+C0210,Pablo Garcia,Guatemala,Basic,pablo.garcia210@email.com,+17924991251
+C0211,Valentina Reyes,Peru,Premium,valentina.reyes211@email.com,+15286692966
+C0212,Sofia Ramirez,Ecuador,Standard,sofia.ramirez212@email.com,+12742257905
+C0213,Carlos Ramirez,Chile,Standard,carlos.ramirez213@email.com,+16887676772
+C0214,Juan Castro,Chile,Premium,juan.castro214@email.com,+14043842797
+C0215,Natalia Flores,Dominican Republic,Premium,natalia.flores215@email.com,+11485807836
+C0216,Ana Cruz,Mexico,Basic,ana.cruz216@email.com,+17451713395
+C0217,Andrea Diaz,Dominican Republic,Standard,andrea.diaz217@email.com,+12330958498
+C0218,Sofia Torres,Argentina,Basic,sofia.torres218@email.com,+19481260422
+C0219,Valentina Hernandez,Chile,Basic,valentina.hernandez219@email.com,+16729466711
+C0220,Miguel Flores,Guatemala,Basic,miguel.flores220@email.com,+17759017518
+C0221,Miguel Morales,Chile,VIP,miguel.morales221@email.com,+17454589297
+C0222,Roberto Lopez,Colombia,Premium,roberto.lopez222@email.com,+17012770632
+C0223,Camila Rodriguez,Colombia,Basic,camila.rodriguez223@email.com,+15415206436
+C0224,Juan Garcia,Chile,Premium,juan.garcia224@email.com,+17129387005
+C0225,Ana Diaz,Panama,Standard,ana.diaz225@email.com,+11361115542
+C0226,Miguel Hernandez,Colombia,Standard,miguel.hernandez226@email.com,+18909275326
+C0227,Andrea Sanchez,Colombia,Standard,andrea.sanchez227@email.com,+11219656523
+C0228,Andres Perez,Ecuador,Standard,andres.perez228@email.com,+19994043898
+C0229,Diego Ruiz,Mexico,Basic,diego.ruiz229@email.com,+13761379180
+C0230,Patricia Torres,Costa Rica,Standard,patricia.torres230@email.com,+19658271091
+C0231,Carlos Vargas,Mexico,Standard,carlos.vargas231@email.com,+10684866618
+C0232,Natalia Ortega,Argentina,Standard,natalia.ortega232@email.com,+11418328569
+C0233,Juan Reyes,Chile,VIP,juan.reyes233@email.com,+10316179904
+C0234,Sofia Garcia,Peru,Premium,sofia.garcia234@email.com,+10275884252
+C0235,Andres Garcia,Guatemala,Premium,andres.garcia235@email.com,+16481491778
+C0236,Patricia Lopez,Dominican Republic,VIP,patricia.lopez236@email.com,+12524191380
+C0237,Maria Martinez,Mexico,Standard,maria.martinez237@email.com,+17562208635
+C0238,Valentina Diaz,Argentina,Basic,valentina.diaz238@email.com,+11951802380
+C0239,Miguel Perez,Argentina,VIP,miguel.perez239@email.com,+14518705349
+C0240,Camila Ortega,Panama,Standard,camila.ortega240@email.com,+15973832060
+C0241,Valentina Mendez,Mexico,Basic,valentina.mendez241@email.com,+15064138367
+C0242,Maria Hernandez,Colombia,Basic,maria.hernandez242@email.com,+10386571918
+C0243,Luis Ruiz,Dominican Republic,Premium,luis.ruiz243@email.com,+19062344565
+C0244,Roberto Sanchez,Chile,Basic,roberto.sanchez244@email.com,+11329121277
+C0245,Roberto Diaz,Ecuador,Premium,roberto.diaz245@email.com,+15374741124
+C0246,Andrea Lopez,Guatemala,Standard,andrea.lopez246@email.com,+12135680442
+C0247,Carlos Ruiz,Ecuador,VIP,carlos.ruiz247@email.com,+18317121003
+C0248,Luis Morales,Guatemala,VIP,luis.morales248@email.com,+11994101372
+C0249,Juan Torres,Mexico,Premium,juan.torres249@email.com,+17029667066
+C0250,Sofia Gomez,Peru,Standard,sofia.gomez250@email.com,+14472099934
+C0251,Daniela Diaz,Mexico,VIP,daniela.diaz251@email.com,+11462638380
+C0252,Miguel Gomez,Ecuador,VIP,miguel.gomez252@email.com,+17598564205
+C0253,Andrea Cruz,Argentina,Premium,andrea.cruz253@email.com,+10785932133
+C0254,Andres Mendez,Chile,Premium,andres.mendez254@email.com,+19652239559
+C0255,Carlos Gomez,Dominican Republic,Standard,carlos.gomez255@email.com,+13784270103
+C0256,Andrea Cruz,Ecuador,Premium,andrea.cruz256@email.com,+17059325250
+C0257,Carlos Hernandez,Colombia,Standard,carlos.hernandez257@email.com,+18515691545
+C0258,Luis Rodriguez,Panama,VIP,luis.rodriguez258@email.com,+15289539264
+C0259,Camila Hernandez,Mexico,Standard,camila.hernandez259@email.com,+19690295939
+C0260,Ana Ramirez,Guatemala,Standard,ana.ramirez260@email.com,+11355215704
+C0261,Diego Cruz,Guatemala,Premium,diego.cruz261@email.com,+14100676267
+C0262,Miguel Gomez,Colombia,VIP,miguel.gomez262@email.com,+17932710405
+C0263,Andres Garcia,Guatemala,Premium,andres.garcia263@email.com,+12621815997
+C0264,Carlos Diaz,Dominican Republic,Standard,carlos.diaz264@email.com,+16201533688
+C0265,Andres Reyes,Chile,Basic,andres.reyes265@email.com,+11069872050
+C0266,Isabel Perez,Dominican Republic,Basic,isabel.perez266@email.com,+17310324171
+C0267,Camila Ruiz,Panama,VIP,camila.ruiz267@email.com,+14186256527
+C0268,Maria Vargas,Panama,VIP,maria.vargas268@email.com,+14349021158
+C0269,Isabel Castro,Ecuador,Standard,isabel.castro269@email.com,+10686879374
+C0270,Juan Ruiz,Ecuador,Premium,juan.ruiz270@email.com,+19899217223
+C0271,Diego Hernandez,Costa Rica,Premium,diego.hernandez271@email.com,+11632945116
+C0272,Natalia Ruiz,Argentina,Basic,natalia.ruiz272@email.com,+18709986162
+C0273,Luis Castro,Colombia,Premium,luis.castro273@email.com,+19148564679
+C0274,Andrea Ramirez,Peru,Premium,andrea.ramirez274@email.com,+14629960653
+C0275,Maria Ramirez,Guatemala,Basic,maria.ramirez275@email.com,+10544471324
+C0276,Fernando Torres,Costa Rica,Basic,fernando.torres276@email.com,+19137367850
+C0277,Jorge Rodriguez,Argentina,Premium,jorge.rodriguez277@email.com,+18628902330
+C0278,Valentina Lopez,Mexico,VIP,valentina.lopez278@email.com,+15345786103
+C0279,Patricia Ramirez,Peru,VIP,patricia.ramirez279@email.com,+17985524140
+C0280,Miguel Lopez,Dominican Republic,Standard,miguel.lopez280@email.com,+13333468007
+C0281,Luis Rodriguez,Chile,Premium,luis.rodriguez281@email.com,+14944665743
+C0282,Fernando Reyes,Dominican Republic,VIP,fernando.reyes282@email.com,+11085899441
+C0283,Daniela Perez,Argentina,Basic,daniela.perez283@email.com,+15444328309
+C0284,Miguel Torres,Mexico,Standard,miguel.torres284@email.com,+17446660993
+C0285,Roberto Cruz,Guatemala,VIP,roberto.cruz285@email.com,+18428241724
+C0286,Natalia Rodriguez,Colombia,Basic,natalia.rodriguez286@email.com,+13534655494
+C0287,Fernando Garcia,Mexico,VIP,fernando.garcia287@email.com,+19991738168
+C0288,Camila Diaz,Peru,Premium,camila.diaz288@email.com,+12356972521
+C0289,Daniela Torres,Guatemala,Standard,daniela.torres289@email.com,+10074329271
+C0290,Luis Ortega,Costa Rica,VIP,luis.ortega290@email.com,+16676008350
+C0291,Roberto Flores,Mexico,Standard,roberto.flores291@email.com,+10335421689
+C0292,Camila Rodriguez,Mexico,Premium,camila.rodriguez292@email.com,+14478985625
+C0293,Daniela Gomez,Peru,Standard,daniela.gomez293@email.com,+16033230982
+C0294,Ana Gomez,Costa Rica,Premium,ana.gomez294@email.com,+14890901001
+C0295,Isabel Sanchez,Colombia,VIP,isabel.sanchez295@email.com,+18472304618
+C0296,Andres Ortega,Costa Rica,Standard,andres.ortega296@email.com,+11891411739
+C0297,Diego Vargas,Guatemala,Standard,diego.vargas297@email.com,+16420873753
+C0298,Carlos Martinez,Colombia,Premium,carlos.martinez298@email.com,+19721811437
+C0299,Camila Vargas,Mexico,VIP,camila.vargas299@email.com,+11204556110
+C0300,Carlos Hernandez,Guatemala,Standard,carlos.hernandez300@email.com,+15794155216
+C0301,Miguel Sanchez,Costa Rica,Basic,miguel.sanchez301@email.com,+17621202169
+C0302,Daniela Castro,Peru,VIP,daniela.castro302@email.com,+19659027716
+C0303,Fernando Lopez,Argentina,Premium,fernando.lopez303@email.com,+15089935889
+C0304,Ana Diaz,Panama,Standard,ana.diaz304@email.com,+15628900287
+C0305,Daniela Rodriguez,Panama,Premium,daniela.rodriguez305@email.com,+15354083866
+C0306,Valentina Perez,Panama,VIP,valentina.perez306@email.com,+19717751701
+C0307,Miguel Diaz,Ecuador,Premium,miguel.diaz307@email.com,+18019948837
+C0308,Roberto Gomez,Chile,Premium,roberto.gomez308@email.com,+17589975711
+C0309,Valentina Martinez,Guatemala,Basic,valentina.martinez309@email.com,+14885102726
+C0310,Ana Vargas,Chile,Standard,ana.vargas310@email.com,+11637351609
+C0311,Ana Sanchez,Dominican Republic,VIP,ana.sanchez311@email.com,+18270808697
+C0312,Jorge Rodriguez,Peru,Standard,jorge.rodriguez312@email.com,+11699586693
+C0313,Andres Ruiz,Argentina,Basic,andres.ruiz313@email.com,+17226984858
+C0314,Diego Morales,Dominican Republic,Standard,diego.morales314@email.com,+14522885158
+C0315,Daniela Castro,Ecuador,VIP,daniela.castro315@email.com,+14608106200
+C0316,Diego Vargas,Argentina,Standard,diego.vargas316@email.com,+14204380571
+C0317,Andrea Mendez,Ecuador,Standard,andrea.mendez317@email.com,+16384066658
+C0318,Maria Martinez,Chile,Basic,maria.martinez318@email.com,+19735989334
+C0319,Fernando Rodriguez,Peru,Premium,fernando.rodriguez319@email.com,+12816064842
+C0320,Sofia Castro,Mexico,Basic,sofia.castro320@email.com,+15720259094
+C0321,Daniela Castro,Colombia,Basic,daniela.castro321@email.com,+15832818268
+C0322,Natalia Ruiz,Guatemala,Premium,natalia.ruiz322@email.com,+13355543987
+C0323,Natalia Martinez,Guatemala,Premium,natalia.martinez323@email.com,+17399305616
+C0324,Andres Mendez,Mexico,Basic,andres.mendez324@email.com,+18588770435
+C0325,Jorge Perez,Peru,Premium,jorge.perez325@email.com,+18801336138
+C0326,Isabel Perez,Mexico,Standard,isabel.perez326@email.com,+17501102481
+C0327,Pablo Cruz,Costa Rica,Basic,pablo.cruz327@email.com,+16766506180
+C0328,Andrea Perez,Colombia,Premium,andrea.perez328@email.com,+15814491476
+C0329,Miguel Martinez,Peru,VIP,miguel.martinez329@email.com,+18326842450
+C0330,Natalia Mendez,Colombia,Standard,natalia.mendez330@email.com,+10099688143
+C0331,Patricia Morales,Ecuador,VIP,patricia.morales331@email.com,+12223943129
+C0332,Maria Mendez,Ecuador,VIP,maria.mendez332@email.com,+11414139755
+C0333,Luis Cruz,Argentina,Premium,luis.cruz333@email.com,+19135775949
+C0334,Luis Castro,Guatemala,Basic,luis.castro334@email.com,+16205336452
+C0335,Roberto Ramirez,Panama,VIP,roberto.ramirez335@email.com,+15478129142
+C0336,Natalia Morales,Colombia,Basic,natalia.morales336@email.com,+11080996930
+C0337,Natalia Vargas,Peru,VIP,natalia.vargas337@email.com,+15639427881
+C0338,Miguel Gomez,Chile,Premium,miguel.gomez338@email.com,+19282722992
+C0339,Daniela Gomez,Chile,Premium,daniela.gomez339@email.com,+17314530385
+C0340,Miguel Ramirez,Mexico,VIP,miguel.ramirez340@email.com,+10518449892
+C0341,Miguel Ruiz,Dominican Republic,Basic,miguel.ruiz341@email.com,+11846386557
+C0342,Daniela Ortega,Ecuador,Premium,daniela.ortega342@email.com,+12723184322
+C0343,Sofia Gomez,Chile,Premium,sofia.gomez343@email.com,+16517773926
+C0344,Carlos Cruz,Peru,Premium,carlos.cruz344@email.com,+19922809202
+C0345,Andres Rodriguez,Dominican Republic,VIP,andres.rodriguez345@email.com,+19041379772
+C0346,Valentina Diaz,Dominican Republic,Standard,valentina.diaz346@email.com,+12984257991
+C0347,Valentina Ruiz,Peru,VIP,valentina.ruiz347@email.com,+11038862912
+C0348,Daniela Ortega,Ecuador,Premium,daniela.ortega348@email.com,+18117298068
+C0349,Isabel Gomez,Ecuador,Premium,isabel.gomez349@email.com,+16376599162
+C0350,Andres Ramirez,Colombia,Standard,andres.ramirez350@email.com,+14986430098
+C0351,Ana Flores,Costa Rica,Premium,ana.flores351@email.com,+13565126944
+C0352,Natalia Diaz,Dominican Republic,Basic,natalia.diaz352@email.com,+14636887258
+C0353,Natalia Ramirez,Argentina,Basic,natalia.ramirez353@email.com,+19562137213
+C0354,Jorge Ruiz,Ecuador,Basic,jorge.ruiz354@email.com,+19026012796
+C0355,Juan Perez,Chile,Basic,juan.perez355@email.com,+15190669849
+C0356,Maria Rodriguez,Panama,VIP,maria.rodriguez356@email.com,+10384309883
+C0357,Andrea Rodriguez,Guatemala,Premium,andrea.rodriguez357@email.com,+13021465669
+C0358,Diego Flores,Colombia,Premium,diego.flores358@email.com,+11848955439
+C0359,Diego Sanchez,Dominican Republic,VIP,diego.sanchez359@email.com,+10426818184
+C0360,Roberto Garcia,Ecuador,Basic,roberto.garcia360@email.com,+19476973577
+C0361,Pablo Martinez,Colombia,VIP,pablo.martinez361@email.com,+14163356588
+C0362,Carlos Vargas,Argentina,Standard,carlos.vargas362@email.com,+11651827553
+C0363,Pablo Vargas,Chile,Standard,pablo.vargas363@email.com,+17333433339
+C0364,Patricia Hernandez,Colombia,Premium,patricia.hernandez364@email.com,+11790807595
+C0365,Daniela Castro,Panama,Basic,daniela.castro365@email.com,+12846392086
+C0366,Daniela Mendez,Ecuador,Premium,daniela.mendez366@email.com,+15627187500
+C0367,Diego Ruiz,Guatemala,Premium,diego.ruiz367@email.com,+15942843479
+C0368,Roberto Gomez,Panama,Standard,roberto.gomez368@email.com,+16365564729
+C0369,Luis Castro,Colombia,Standard,luis.castro369@email.com,+14386632270
+C0370,Sofia Diaz,Peru,VIP,sofia.diaz370@email.com,+18857448906
+C0371,Ana Rodriguez,Chile,Premium,ana.rodriguez371@email.com,+14717545588
+C0372,Andres Gomez,Costa Rica,Premium,andres.gomez372@email.com,+11593998245
+C0373,Roberto Flores,Panama,VIP,roberto.flores373@email.com,+11694722569
+C0374,Pablo Ruiz,Colombia,Premium,pablo.ruiz374@email.com,+12535544964
+C0375,Fernando Gomez,Costa Rica,VIP,fernando.gomez375@email.com,+12202341326
+C0376,Ana Garcia,Panama,Premium,ana.garcia376@email.com,+18006811492
+C0377,Juan Ruiz,Chile,Basic,juan.ruiz377@email.com,+13472282005
+C0378,Roberto Ramirez,Ecuador,VIP,roberto.ramirez378@email.com,+14872829979
+C0379,Isabel Flores,Guatemala,Basic,isabel.flores379@email.com,+17831745642
+C0380,Camila Martinez,Ecuador,Premium,camila.martinez380@email.com,+12547807740
+C0381,Isabel Reyes,Mexico,Standard,isabel.reyes381@email.com,+18536866326
+C0382,Miguel Cruz,Colombia,Basic,miguel.cruz382@email.com,+16389448463
+C0383,Juan Rodriguez,Argentina,Standard,juan.rodriguez383@email.com,+11797497350
+C0384,Luis Lopez,Peru,Premium,luis.lopez384@email.com,+11442703120
+C0385,Daniela Morales,Costa Rica,Basic,daniela.morales385@email.com,+14757051204
+C0386,Miguel Perez,Peru,VIP,miguel.perez386@email.com,+13460136730
+C0387,Diego Sanchez,Ecuador,Premium,diego.sanchez387@email.com,+13764520881
+C0388,Andres Ramirez,Chile,Basic,andres.ramirez388@email.com,+15031365024
+C0389,Pablo Garcia,Chile,VIP,pablo.garcia389@email.com,+10097925132
+C0390,Daniela Perez,Mexico,Basic,daniela.perez390@email.com,+10528127358
+C0391,Patricia Sanchez,Mexico,Standard,patricia.sanchez391@email.com,+16524077848
+C0392,Daniela Morales,Ecuador,Standard,daniela.morales392@email.com,+15574982182
+C0393,Fernando Reyes,Ecuador,Basic,fernando.reyes393@email.com,+15708620959
+C0394,Valentina Torres,Ecuador,Premium,valentina.torres394@email.com,+16387829456
+C0395,Roberto Garcia,Ecuador,Premium,roberto.garcia395@email.com,+11022031731
+C0396,Maria Castro,Panama,VIP,maria.castro396@email.com,+18994053910
+C0397,Diego Ramirez,Panama,Premium,diego.ramirez397@email.com,+10586509480
+C0398,Juan Reyes,Chile,Premium,juan.reyes398@email.com,+18113863383
+C0399,Pablo Rodriguez,Colombia,VIP,pablo.rodriguez399@email.com,+19576122868
+C0400,Roberto Rodriguez,Guatemala,VIP,roberto.rodriguez400@email.com,+15855665939
+C0401,Natalia Morales,Ecuador,VIP,natalia.morales401@email.com,+14577600490
+C0402,Jorge Hernandez,Mexico,Basic,jorge.hernandez402@email.com,+14335048889
+C0403,Pablo Hernandez,Mexico,Premium,pablo.hernandez403@email.com,+17522459334
+C0404,Camila Perez,Dominican Republic,VIP,camila.perez404@email.com,+13157279194
+C0405,Maria Castro,Colombia,VIP,maria.castro405@email.com,+10556613906
+C0406,Maria Reyes,Guatemala,Premium,maria.reyes406@email.com,+18925832067
+C0407,Andrea Castro,Chile,Premium,andrea.castro407@email.com,+16462251790
+C0408,Natalia Ruiz,Colombia,Basic,natalia.ruiz408@email.com,+16862278376
+C0409,Pablo Morales,Chile,Standard,pablo.morales409@email.com,+11465911665
+C0410,Patricia Morales,Guatemala,Basic,patricia.morales410@email.com,+19042597927
+C0411,Maria Cruz,Guatemala,Standard,maria.cruz411@email.com,+12110392405
+C0412,Ana Reyes,Panama,VIP,ana.reyes412@email.com,+10538338848
+C0413,Daniela Ortega,Mexico,Standard,daniela.ortega413@email.com,+16980420439
+C0414,Andres Lopez,Mexico,VIP,andres.lopez414@email.com,+11645104636
+C0415,Jorge Garcia,Panama,Basic,jorge.garcia415@email.com,+19812387800
+C0416,Valentina Flores,Guatemala,Basic,valentina.flores416@email.com,+17620555438
+C0417,Andres Lopez,Costa Rica,Basic,andres.lopez417@email.com,+10843256216
+C0418,Jorge Ortega,Costa Rica,Standard,jorge.ortega418@email.com,+13926495782
+C0419,Diego Hernandez,Peru,Standard,diego.hernandez419@email.com,+14826292518
+C0420,Natalia Garcia,Guatemala,Standard,natalia.garcia420@email.com,+12056647423
+C0421,Ana Hernandez,Mexico,Standard,ana.hernandez421@email.com,+19949993933
+C0422,Carlos Gomez,Panama,Premium,carlos.gomez422@email.com,+12897526772
+C0423,Sofia Morales,Mexico,Standard,sofia.morales423@email.com,+16046333127
+C0424,Andrea Ramirez,Panama,Basic,andrea.ramirez424@email.com,+13660965699
+C0425,Andrea Mendez,Ecuador,Premium,andrea.mendez425@email.com,+11770388608
+C0426,Miguel Flores,Chile,Premium,miguel.flores426@email.com,+14764472649
+C0427,Maria Flores,Panama,Standard,maria.flores427@email.com,+17181298266
+C0428,Roberto Sanchez,Peru,Premium,roberto.sanchez428@email.com,+17937145211
+C0429,Ana Sanchez,Colombia,Basic,ana.sanchez429@email.com,+18689268602
+C0430,Roberto Castro,Peru,Standard,roberto.castro430@email.com,+12206447421
+C0431,Luis Morales,Dominican Republic,Premium,luis.morales431@email.com,+14077780973
+C0432,Diego Castro,Panama,VIP,diego.castro432@email.com,+16719903849
+C0433,Natalia Morales,Peru,Premium,natalia.morales433@email.com,+12050209945
+C0434,Juan Lopez,Costa Rica,Premium,juan.lopez434@email.com,+12249998279
+C0435,Patricia Lopez,Argentina,Premium,patricia.lopez435@email.com,+15561681472
+C0436,Ana Vargas,Ecuador,Basic,ana.vargas436@email.com,+16833901981
+C0437,Daniela Ortega,Costa Rica,Basic,daniela.ortega437@email.com,+19548995299
+C0438,Daniela Flores,Panama,VIP,daniela.flores438@email.com,+12934301071
+C0439,Diego Ortega,Costa Rica,VIP,diego.ortega439@email.com,+10558303441
+C0440,Camila Reyes,Mexico,Basic,camila.reyes440@email.com,+11556990235
+C0441,Roberto Ramirez,Mexico,VIP,roberto.ramirez441@email.com,+12727857608
+C0442,Camila Castro,Ecuador,Basic,camila.castro442@email.com,+18039551240
+C0443,Roberto Ruiz,Dominican Republic,Standard,roberto.ruiz443@email.com,+19629145046
+C0444,Juan Ramirez,Guatemala,Standard,juan.ramirez444@email.com,+17438421503
+C0445,Juan Sanchez,Panama,Premium,juan.sanchez445@email.com,+18235784521
+C0446,Jorge Hernandez,Mexico,Standard,jorge.hernandez446@email.com,+17681040915
+C0447,Fernando Lopez,Ecuador,Premium,fernando.lopez447@email.com,+14094353344
+C0448,Natalia Torres,Colombia,VIP,natalia.torres448@email.com,+14224109881
+C0449,Diego Mendez,Ecuador,Basic,diego.mendez449@email.com,+15424932149
+C0450,Roberto Mendez,Mexico,VIP,roberto.mendez450@email.com,+12070160166
+C0451,Sofia Ortega,Dominican Republic,VIP,sofia.ortega451@email.com,+15453817921
+C0452,Fernando Garcia,Argentina,VIP,fernando.garcia452@email.com,+17733294562
+C0453,Roberto Torres,Panama,VIP,roberto.torres453@email.com,+10171577245
+C0454,Andrea Castro,Ecuador,Standard,andrea.castro454@email.com,+11615814876
+C0455,Pablo Diaz,Dominican Republic,Standard,pablo.diaz455@email.com,+13827615396
+C0456,Isabel Castro,Ecuador,Basic,isabel.castro456@email.com,+13219719975
+C0457,Natalia Garcia,Peru,VIP,natalia.garcia457@email.com,+14619196570
+C0458,Juan Morales,Dominican Republic,Standard,juan.morales458@email.com,+10227846997
+C0459,Diego Morales,Argentina,Basic,diego.morales459@email.com,+19465190986
+C0460,Luis Reyes,Guatemala,Premium,luis.reyes460@email.com,+18008514036
+C0461,Pablo Ruiz,Costa Rica,Basic,pablo.ruiz461@email.com,+16668327238
+C0462,Miguel Gomez,Peru,VIP,miguel.gomez462@email.com,+14220102762
+C0463,Juan Hernandez,Panama,VIP,juan.hernandez463@email.com,+19692786876
+C0464,Patricia Cruz,Costa Rica,Standard,patricia.cruz464@email.com,+19097384689
+C0465,Patricia Lopez,Dominican Republic,Premium,patricia.lopez465@email.com,+17519712847
+C0466,Jorge Perez,Chile,Premium,jorge.perez466@email.com,+17189490580
+C0467,Daniela Sanchez,Dominican Republic,VIP,daniela.sanchez467@email.com,+15654420949
+C0468,Andres Lopez,Dominican Republic,VIP,andres.lopez468@email.com,+12904904712
+C0469,Jorge Perez,Argentina,Basic,jorge.perez469@email.com,+12944401929
+C0470,Luis Sanchez,Peru,Basic,luis.sanchez470@email.com,+14372805129
+C0471,Luis Ramirez,Costa Rica,VIP,luis.ramirez471@email.com,+13723950410
+C0472,Sofia Sanchez,Panama,VIP,sofia.sanchez472@email.com,+14783667428
+C0473,Isabel Martinez,Panama,Basic,isabel.martinez473@email.com,+16580185694
+C0474,Roberto Vargas,Colombia,Basic,roberto.vargas474@email.com,+14967393852
+C0475,Roberto Mendez,Mexico,Premium,roberto.mendez475@email.com,+11061817534
+C0476,Andres Morales,Mexico,Premium,andres.morales476@email.com,+19109391119
+C0477,Luis Ruiz,Colombia,Standard,luis.ruiz477@email.com,+12447174654
+C0478,Sofia Perez,Mexico,Basic,sofia.perez478@email.com,+16650442717
+C0479,Diego Ortega,Peru,VIP,diego.ortega479@email.com,+17128639174
+C0480,Ana Lopez,Colombia,Premium,ana.lopez480@email.com,+19470720064
+C0481,Luis Torres,Dominican Republic,VIP,luis.torres481@email.com,+10877661830
+C0482,Miguel Ramirez,Dominican Republic,Premium,miguel.ramirez482@email.com,+18554601585
+C0483,Juan Sanchez,Chile,Basic,juan.sanchez483@email.com,+12806346157
+C0484,Juan Sanchez,Peru,Standard,juan.sanchez484@email.com,+10309376184
+C0485,Daniela Mendez,Mexico,VIP,daniela.mendez485@email.com,+10505061387
+C0486,Natalia Hernandez,Colombia,Standard,natalia.hernandez486@email.com,+10270790320
+C0487,Sofia Lopez,Colombia,Basic,sofia.lopez487@email.com,+17929111799
+C0488,Valentina Perez,Costa Rica,Standard,valentina.perez488@email.com,+15651982530
+C0489,Pablo Rodriguez,Colombia,Basic,pablo.rodriguez489@email.com,+11426258273
+C0490,Pablo Lopez,Colombia,Standard,pablo.lopez490@email.com,+19620710021
+C0491,Pablo Reyes,Panama,VIP,pablo.reyes491@email.com,+12324876329
+C0492,Maria Ortega,Panama,Standard,maria.ortega492@email.com,+19145608331
+C0493,Jorge Garcia,Ecuador,Basic,jorge.garcia493@email.com,+18373403127
+C0494,Daniela Rodriguez,Mexico,Standard,daniela.rodriguez494@email.com,+10543645970
+C0495,Ana Lopez,Peru,Standard,ana.lopez495@email.com,+10781137995
+C0496,Isabel Morales,Chile,Basic,isabel.morales496@email.com,+11531363631
+C0497,Daniela Castro,Mexico,VIP,daniela.castro497@email.com,+16239726527
+C0498,Diego Gomez,Chile,Basic,diego.gomez498@email.com,+15209042177
+C0499,Isabel Rodriguez,Chile,Basic,isabel.rodriguez499@email.com,+14929298316
+C0500,Jorge Ramirez,Dominican Republic,Standard,jorge.ramirez500@email.com,+17740633569
+C0501,Valentina Castro,Dominican Republic,Standard,valentina.castro501@email.com,+10600780686
+C0502,Daniela Garcia,Panama,VIP,daniela.garcia502@email.com,+13180632543
+C0503,Juan Martinez,Argentina,VIP,juan.martinez503@email.com,+12799077262
+C0504,Patricia Sanchez,Colombia,Premium,patricia.sanchez504@email.com,+16580464989
+C0505,Diego Perez,Mexico,Basic,diego.perez505@email.com,+18501657905
+C0506,Patricia Rodriguez,Ecuador,Premium,patricia.rodriguez506@email.com,+13253817933
+C0507,Roberto Gomez,Ecuador,Basic,roberto.gomez507@email.com,+16401557788
+C0508,Ana Ramirez,Panama,Basic,ana.ramirez508@email.com,+19513711624
+C0509,Juan Garcia,Argentina,Standard,juan.garcia509@email.com,+11272380468
+C0510,Luis Ramirez,Costa Rica,Basic,luis.ramirez510@email.com,+17043103856
+C0511,Pablo Torres,Panama,Basic,pablo.torres511@email.com,+19887749242
+C0512,Andres Cruz,Guatemala,VIP,andres.cruz512@email.com,+14025472928
+C0513,Camila Rodriguez,Peru,Standard,camila.rodriguez513@email.com,+12310592745
+C0514,Sofia Morales,Guatemala,Premium,sofia.morales514@email.com,+15257828410
+C0515,Miguel Ramirez,Panama,Standard,miguel.ramirez515@email.com,+15208854749
+C0516,Luis Castro,Guatemala,VIP,luis.castro516@email.com,+11702814069
+C0517,Valentina Sanchez,Colombia,Basic,valentina.sanchez517@email.com,+15093983430
+C0518,Juan Mendez,Colombia,VIP,juan.mendez518@email.com,+18637599805
+C0519,Miguel Hernandez,Guatemala,VIP,miguel.hernandez519@email.com,+16504554781
+C0520,Diego Sanchez,Panama,VIP,diego.sanchez520@email.com,+14266299123
+C0521,Camila Ramirez,Colombia,Basic,camila.ramirez521@email.com,+19610646287
+C0522,Pablo Hernandez,Peru,Standard,pablo.hernandez522@email.com,+16487049478
+C0523,Fernando Cruz,Mexico,Premium,fernando.cruz523@email.com,+12447146273
+C0524,Carlos Garcia,Panama,Basic,carlos.garcia524@email.com,+11959796471
+C0525,Patricia Flores,Argentina,Premium,patricia.flores525@email.com,+12902572520
+C0526,Andres Gomez,Guatemala,VIP,andres.gomez526@email.com,+10448183219
+C0527,Sofia Mendez,Guatemala,Basic,sofia.mendez527@email.com,+14451895202
+C0528,Jorge Reyes,Panama,Basic,jorge.reyes528@email.com,+16521328338
+C0529,Andrea Flores,Costa Rica,Premium,andrea.flores529@email.com,+17112075452
+C0530,Fernando Ortega,Peru,Basic,fernando.ortega530@email.com,+14013223423
+C0531,Luis Perez,Colombia,VIP,luis.perez531@email.com,+11076031089
+C0532,Maria Ramirez,Argentina,Premium,maria.ramirez532@email.com,+10140119393
+C0533,Sofia Gomez,Colombia,Premium,sofia.gomez533@email.com,+12495528938
+C0534,Pablo Perez,Dominican Republic,Premium,pablo.perez534@email.com,+10833428013
+C0535,Jorge Ramirez,Dominican Republic,Basic,jorge.ramirez535@email.com,+12712566383
+C0536,Isabel Garcia,Colombia,Basic,isabel.garcia536@email.com,+17182754801
+C0537,Roberto Ramirez,Costa Rica,Premium,roberto.ramirez537@email.com,+14794738646
+C0538,Diego Perez,Guatemala,VIP,diego.perez538@email.com,+12071678112
+C0539,Miguel Ruiz,Peru,Premium,miguel.ruiz539@email.com,+11535396136
+C0540,Daniela Vargas,Costa Rica,Basic,daniela.vargas540@email.com,+15796784271
+C0541,Ana Vargas,Panama,VIP,ana.vargas541@email.com,+13201017026
+C0542,Andrea Torres,Argentina,Standard,andrea.torres542@email.com,+19911877347
+C0543,Daniela Flores,Ecuador,Basic,daniela.flores543@email.com,+15880061675
+C0544,Miguel Sanchez,Mexico,VIP,miguel.sanchez544@email.com,+10284276246
+C0545,Daniela Garcia,Ecuador,VIP,daniela.garcia545@email.com,+18977828064
+C0546,Daniela Castro,Dominican Republic,VIP,daniela.castro546@email.com,+15450090255
+C0547,Pablo Martinez,Costa Rica,Basic,pablo.martinez547@email.com,+11655650333
+C0548,Camila Castro,Colombia,Premium,camila.castro548@email.com,+14152085076
+C0549,Pablo Flores,Argentina,VIP,pablo.flores549@email.com,+10790569659
+C0550,Ana Ramirez,Chile,Premium,ana.ramirez550@email.com,+15785294563
+C0551,Daniela Perez,Argentina,Standard,daniela.perez551@email.com,+14049639191
+C0552,Pablo Torres,Colombia,Basic,pablo.torres552@email.com,+19876351484
+C0553,Isabel Mendez,Chile,Basic,isabel.mendez553@email.com,+16649878208
+C0554,Sofia Castro,Chile,VIP,sofia.castro554@email.com,+17489690835
+C0555,Fernando Hernandez,Peru,Standard,fernando.hernandez555@email.com,+14665136442
+C0556,Andres Ortega,Costa Rica,Standard,andres.ortega556@email.com,+13123034778
+C0557,Isabel Diaz,Chile,Premium,isabel.diaz557@email.com,+12420448207
+C0558,Carlos Lopez,Guatemala,Premium,carlos.lopez558@email.com,+19416516231
+C0559,Pablo Flores,Ecuador,Premium,pablo.flores559@email.com,+19847139155
+C0560,Pablo Ruiz,Costa Rica,Standard,pablo.ruiz560@email.com,+13212347649
+C0561,Maria Ramirez,Colombia,Basic,maria.ramirez561@email.com,+15867342575
+C0562,Camila Martinez,Mexico,Premium,camila.martinez562@email.com,+13486451837
+C0563,Miguel Martinez,Argentina,VIP,miguel.martinez563@email.com,+14134327560
+C0564,Andres Perez,Panama,VIP,andres.perez564@email.com,+16561248156
+C0565,Andrea Mendez,Panama,Basic,andrea.mendez565@email.com,+10027206345
+C0566,Pablo Perez,Peru,Premium,pablo.perez566@email.com,+13829657724
+C0567,Sofia Castro,Argentina,Basic,sofia.castro567@email.com,+13165266930
+C0568,Carlos Mendez,Colombia,Standard,carlos.mendez568@email.com,+17342069694
+C0569,Luis Perez,Peru,Basic,luis.perez569@email.com,+19108677133
+C0570,Diego Vargas,Panama,Basic,diego.vargas570@email.com,+16263934362
+C0571,Isabel Hernandez,Argentina,Premium,isabel.hernandez571@email.com,+14397359710
+C0572,Daniela Hernandez,Costa Rica,Basic,daniela.hernandez572@email.com,+13669411800
+C0573,Roberto Cruz,Guatemala,VIP,roberto.cruz573@email.com,+19900489646
+C0574,Patricia Hernandez,Dominican Republic,Premium,patricia.hernandez574@email.com,+12428757215
+C0575,Jorge Diaz,Argentina,Standard,jorge.diaz575@email.com,+11502745644
+C0576,Andrea Vargas,Costa Rica,Basic,andrea.vargas576@email.com,+12572870320
+C0577,Valentina Rodriguez,Panama,Premium,valentina.rodriguez577@email.com,+14276170758
+C0578,Daniela Sanchez,Colombia,VIP,daniela.sanchez578@email.com,+12151342284
+C0579,Pablo Castro,Dominican Republic,Standard,pablo.castro579@email.com,+10892613715
+C0580,Carlos Reyes,Costa Rica,Premium,carlos.reyes580@email.com,+15915201777
+C0581,Andres Ortega,Guatemala,Premium,andres.ortega581@email.com,+10975923045
+C0582,Maria Perez,Colombia,VIP,maria.perez582@email.com,+16423610326
+C0583,Miguel Reyes,Colombia,Standard,miguel.reyes583@email.com,+14764925158
+C0584,Diego Ramirez,Costa Rica,VIP,diego.ramirez584@email.com,+17499616592
+C0585,Isabel Diaz,Mexico,Premium,isabel.diaz585@email.com,+18573278814
+C0586,Fernando Diaz,Panama,Premium,fernando.diaz586@email.com,+14224386490
+C0587,Natalia Perez,Ecuador,Premium,natalia.perez587@email.com,+11866179454
+C0588,Pablo Perez,Colombia,Premium,pablo.perez588@email.com,+17226016459
+C0589,Fernando Sanchez,Guatemala,Basic,fernando.sanchez589@email.com,+12321941680
+C0590,Carlos Ruiz,Mexico,Premium,carlos.ruiz590@email.com,+12776974995
+C0591,Miguel Reyes,Peru,Premium,miguel.reyes591@email.com,+12031030372
+C0592,Valentina Diaz,Colombia,Standard,valentina.diaz592@email.com,+14727601227
+C0593,Daniela Ramirez,Panama,Premium,daniela.ramirez593@email.com,+19334960501
+C0594,Isabel Diaz,Dominican Republic,VIP,isabel.diaz594@email.com,+19840767899
+C0595,Daniela Cruz,Ecuador,Premium,daniela.cruz595@email.com,+10695814671
+C0596,Daniela Ortega,Panama,Basic,daniela.ortega596@email.com,+16024375738
+C0597,Valentina Castro,Dominican Republic,Basic,valentina.castro597@email.com,+17246657293
+C0598,Camila Perez,Peru,VIP,camila.perez598@email.com,+12329716743
+C0599,Diego Mendez,Mexico,Premium,diego.mendez599@email.com,+15452280156
+C0600,Ana Ortega,Colombia,Standard,ana.ortega600@email.com,+18374550842
+C0601,Jorge Ortega,Mexico,Premium,jorge.ortega601@email.com,+17711991808
+C0602,Ana Rodriguez,Chile,Premium,ana.rodriguez602@email.com,+15247871255
+C0603,Luis Garcia,Panama,Standard,luis.garcia603@email.com,+16037548214
+C0604,Patricia Diaz,Chile,Basic,patricia.diaz604@email.com,+12863266678
+C0605,Patricia Martinez,Peru,VIP,patricia.martinez605@email.com,+10811556260
+C0606,Miguel Lopez,Dominican Republic,Standard,miguel.lopez606@email.com,+10846684550
+C0607,Andres Flores,Costa Rica,Standard,andres.flores607@email.com,+17389975634
+C0608,Juan Lopez,Costa Rica,Basic,juan.lopez608@email.com,+12884318848
+C0609,Roberto Rodriguez,Mexico,Premium,roberto.rodriguez609@email.com,+18943468105
+C0610,Andres Flores,Colombia,Basic,andres.flores610@email.com,+10174907539
+C0611,Pablo Mendez,Guatemala,Standard,pablo.mendez611@email.com,+14492683158
+C0612,Pablo Morales,Panama,Basic,pablo.morales612@email.com,+11266110627
+C0613,Diego Sanchez,Guatemala,Premium,diego.sanchez613@email.com,+18698864976
+C0614,Fernando Ramirez,Peru,VIP,fernando.ramirez614@email.com,+12827728813
+C0615,Fernando Ramirez,Peru,Premium,fernando.ramirez615@email.com,+18519611594
+C0616,Maria Flores,Colombia,Standard,maria.flores616@email.com,+15454470229
+C0617,Isabel Lopez,Argentina,Basic,isabel.lopez617@email.com,+13270185106
+C0618,Daniela Castro,Dominican Republic,Basic,daniela.castro618@email.com,+17567922877
+C0619,Fernando Hernandez,Colombia,Basic,fernando.hernandez619@email.com,+19966365807
+C0620,Andres Perez,Mexico,Standard,andres.perez620@email.com,+19481813989
+C0621,Maria Castro,Panama,Standard,maria.castro621@email.com,+18018204339
+C0622,Fernando Perez,Costa Rica,Basic,fernando.perez622@email.com,+19070562608
+C0623,Roberto Ruiz,Colombia,Basic,roberto.ruiz623@email.com,+11182422412
+C0624,Camila Diaz,Mexico,Standard,camila.diaz624@email.com,+19520046152
+C0625,Isabel Torres,Costa Rica,Basic,isabel.torres625@email.com,+11033993788
+C0626,Miguel Garcia,Mexico,Basic,miguel.garcia626@email.com,+15786170630
+C0627,Andres Mendez,Chile,Premium,andres.mendez627@email.com,+18249671832
+C0628,Patricia Mendez,Chile,Standard,patricia.mendez628@email.com,+18687007942
+C0629,Carlos Lopez,Argentina,VIP,carlos.lopez629@email.com,+19465398402
+C0630,Natalia Castro,Argentina,Premium,natalia.castro630@email.com,+11612846398
+C0631,Roberto Torres,Panama,Basic,roberto.torres631@email.com,+14355379502
+C0632,Carlos Ortega,Mexico,VIP,carlos.ortega632@email.com,+10268768118
+C0633,Carlos Sanchez,Guatemala,Premium,carlos.sanchez633@email.com,+16956201753
+C0634,Fernando Martinez,Mexico,Standard,fernando.martinez634@email.com,+14531943375
+C0635,Maria Vargas,Dominican Republic,VIP,maria.vargas635@email.com,+13036149872
+C0636,Natalia Morales,Colombia,Standard,natalia.morales636@email.com,+19212493843
+C0637,Carlos Mendez,Ecuador,Basic,carlos.mendez637@email.com,+17060566418
+C0638,Fernando Ramirez,Ecuador,Basic,fernando.ramirez638@email.com,+10304687506
+C0639,Diego Torres,Dominican Republic,Premium,diego.torres639@email.com,+10361332541
+C0640,Ana Martinez,Costa Rica,VIP,ana.martinez640@email.com,+10954317350
+C0641,Roberto Flores,Colombia,Standard,roberto.flores641@email.com,+19971791100
+C0642,Miguel Torres,Peru,Premium,miguel.torres642@email.com,+10704961108
+C0643,Maria Reyes,Costa Rica,VIP,maria.reyes643@email.com,+11963990767
+C0644,Isabel Ortega,Guatemala,Premium,isabel.ortega644@email.com,+10785931109
+C0645,Juan Castro,Dominican Republic,Standard,juan.castro645@email.com,+12845679723
+C0646,Luis Lopez,Peru,Premium,luis.lopez646@email.com,+14968549822
+C0647,Daniela Reyes,Argentina,Basic,daniela.reyes647@email.com,+15089203880
+C0648,Isabel Gomez,Chile,Standard,isabel.gomez648@email.com,+13153779599
+C0649,Roberto Ortega,Costa Rica,Basic,roberto.ortega649@email.com,+15217073033
+C0650,Fernando Ortega,Chile,Standard,fernando.ortega650@email.com,+17563620501
+C0651,Patricia Martinez,Peru,Premium,patricia.martinez651@email.com,+14739500334
+C0652,Sofia Cruz,Peru,Basic,sofia.cruz652@email.com,+15832302410
+C0653,Luis Ruiz,Guatemala,Premium,luis.ruiz653@email.com,+13473552896
+C0654,Juan Garcia,Peru,Standard,juan.garcia654@email.com,+13386559630
+C0655,Andrea Castro,Ecuador,Standard,andrea.castro655@email.com,+14253042897
+C0656,Diego Perez,Dominican Republic,VIP,diego.perez656@email.com,+11286857872
+C0657,Roberto Gomez,Panama,VIP,roberto.gomez657@email.com,+17496903337
+C0658,Valentina Ruiz,Argentina,Standard,valentina.ruiz658@email.com,+16692548121
+C0659,Camila Sanchez,Chile,Basic,camila.sanchez659@email.com,+19078956776
+C0660,Isabel Gomez,Guatemala,VIP,isabel.gomez660@email.com,+14602734151
+C0661,Camila Flores,Argentina,Premium,camila.flores661@email.com,+13111508353
+C0662,Roberto Vargas,Argentina,Basic,roberto.vargas662@email.com,+13928404456
+C0663,Miguel Castro,Panama,Premium,miguel.castro663@email.com,+18263337389
+C0664,Natalia Sanchez,Guatemala,VIP,natalia.sanchez664@email.com,+11536637780
+C0665,Patricia Hernandez,Argentina,Standard,patricia.hernandez665@email.com,+10755366684
+C0666,Roberto Castro,Dominican Republic,Premium,roberto.castro666@email.com,+10225999966
+C0667,Diego Ruiz,Ecuador,Premium,diego.ruiz667@email.com,+16371597412
+C0668,Ana Mendez,Mexico,Standard,ana.mendez668@email.com,+19702316433
+C0669,Camila Flores,Panama,Premium,camila.flores669@email.com,+10580256621
+C0670,Luis Mendez,Panama,VIP,luis.mendez670@email.com,+11632346729
+C0671,Pablo Reyes,Ecuador,Standard,pablo.reyes671@email.com,+17430271693
+C0672,Jorge Torres,Panama,VIP,jorge.torres672@email.com,+17901475469
+C0673,Sofia Diaz,Peru,Standard,sofia.diaz673@email.com,+19676291603
+C0674,Sofia Vargas,Colombia,Basic,sofia.vargas674@email.com,+13768151185
+C0675,Isabel Sanchez,Argentina,Standard,isabel.sanchez675@email.com,+13807017656
+C0676,Diego Ruiz,Mexico,Premium,diego.ruiz676@email.com,+14125777118
+C0677,Valentina Sanchez,Panama,Standard,valentina.sanchez677@email.com,+14220912418
+C0678,Miguel Rodriguez,Mexico,Premium,miguel.rodriguez678@email.com,+14275230837
+C0679,Maria Flores,Costa Rica,Premium,maria.flores679@email.com,+14709006335
+C0680,Valentina Morales,Mexico,Premium,valentina.morales680@email.com,+16005313122
+C0681,Maria Diaz,Guatemala,Premium,maria.diaz681@email.com,+15839386613
+C0682,Diego Garcia,Guatemala,Basic,diego.garcia682@email.com,+12065063731
+C0683,Andres Ortega,Mexico,Basic,andres.ortega683@email.com,+11364971892
+C0684,Andres Garcia,Costa Rica,Basic,andres.garcia684@email.com,+12525715099
+C0685,Fernando Ruiz,Ecuador,Standard,fernando.ruiz685@email.com,+19030914363
+C0686,Andrea Perez,Peru,Premium,andrea.perez686@email.com,+15743263039
+C0687,Fernando Torres,Argentina,Standard,fernando.torres687@email.com,+15086403553
+C0688,Diego Mendez,Chile,Premium,diego.mendez688@email.com,+13968527017
+C0689,Juan Morales,Peru,Premium,juan.morales689@email.com,+13212983381
+C0690,Isabel Sanchez,Peru,Basic,isabel.sanchez690@email.com,+13362934497
+C0691,Diego Vargas,Colombia,VIP,diego.vargas691@email.com,+15662776896
+C0692,Luis Ramirez,Costa Rica,Premium,luis.ramirez692@email.com,+16149828246
+C0693,Fernando Reyes,Argentina,VIP,fernando.reyes693@email.com,+16897152732
+C0694,Diego Martinez,Ecuador,Premium,diego.martinez694@email.com,+15766656749
+C0695,Juan Diaz,Colombia,Premium,juan.diaz695@email.com,+16923645875
+C0696,Maria Ruiz,Chile,VIP,maria.ruiz696@email.com,+13705024972
+C0697,Andres Cruz,Mexico,Standard,andres.cruz697@email.com,+11166918362
+C0698,Isabel Vargas,Ecuador,Basic,isabel.vargas698@email.com,+18694611952
+C0699,Andres Morales,Argentina,VIP,andres.morales699@email.com,+10270116864
+C0700,Isabel Rodriguez,Guatemala,Standard,isabel.rodriguez700@email.com,+12237281793
+C0701,Sofia Morales,Peru,Premium,sofia.morales701@email.com,+13467912141
+C0702,Miguel Garcia,Colombia,Basic,miguel.garcia702@email.com,+15093771004
+C0703,Carlos Castro,Colombia,Premium,carlos.castro703@email.com,+13806984775
+C0704,Andrea Diaz,Guatemala,Basic,andrea.diaz704@email.com,+15535669055
+C0705,Ana Martinez,Costa Rica,VIP,ana.martinez705@email.com,+12091843579
+C0706,Daniela Flores,Chile,VIP,daniela.flores706@email.com,+10505057397
+C0707,Miguel Ortega,Guatemala,Premium,miguel.ortega707@email.com,+16716493289
+C0708,Jorge Lopez,Panama,Standard,jorge.lopez708@email.com,+11487271783
+C0709,Valentina Morales,Colombia,Standard,valentina.morales709@email.com,+11602564347
+C0710,Ana Hernandez,Colombia,VIP,ana.hernandez710@email.com,+15399156686
+C0711,Valentina Cruz,Colombia,Basic,valentina.cruz711@email.com,+14111593195
+C0712,Luis Torres,Dominican Republic,VIP,luis.torres712@email.com,+10409836655
+C0713,Luis Flores,Colombia,Standard,luis.flores713@email.com,+16087524377
+C0714,Luis Ortega,Peru,Basic,luis.ortega714@email.com,+10954814973
+C0715,Daniela Reyes,Mexico,VIP,daniela.reyes715@email.com,+15233027642
+C0716,Carlos Mendez,Guatemala,VIP,carlos.mendez716@email.com,+16756618443
+C0717,Natalia Ruiz,Peru,Premium,natalia.ruiz717@email.com,+15904729277
+C0718,Camila Hernandez,Chile,Standard,camila.hernandez718@email.com,+13059126620
+C0719,Ana Gomez,Peru,VIP,ana.gomez719@email.com,+10185962630
+C0720,Ana Cruz,Panama,VIP,ana.cruz720@email.com,+14926176475
+C0721,Carlos Garcia,Colombia,Premium,carlos.garcia721@email.com,+11783099974
+C0722,Ana Castro,Costa Rica,Standard,ana.castro722@email.com,+17649215182
+C0723,Miguel Martinez,Ecuador,VIP,miguel.martinez723@email.com,+18871898131
+C0724,Sofia Ortega,Mexico,Standard,sofia.ortega724@email.com,+18751029321
+C0725,Natalia Vargas,Colombia,Premium,natalia.vargas725@email.com,+11845826034
+C0726,Maria Flores,Ecuador,Basic,maria.flores726@email.com,+17297585988
+C0727,Diego Garcia,Chile,Premium,diego.garcia727@email.com,+10324329839
+C0728,Patricia Vargas,Dominican Republic,Standard,patricia.vargas728@email.com,+16184462671
+C0729,Andres Diaz,Ecuador,Standard,andres.diaz729@email.com,+13143598926
+C0730,Luis Torres,Costa Rica,VIP,luis.torres730@email.com,+10931418186
+C0731,Juan Torres,Guatemala,Premium,juan.torres731@email.com,+15423401636
+C0732,Ana Garcia,Ecuador,Standard,ana.garcia732@email.com,+14971859484
+C0733,Andrea Garcia,Peru,Premium,andrea.garcia733@email.com,+15625889679
+C0734,Luis Vargas,Ecuador,Premium,luis.vargas734@email.com,+12226940539
+C0735,Isabel Sanchez,Panama,Standard,isabel.sanchez735@email.com,+15784468341
+C0736,Camila Diaz,Colombia,Basic,camila.diaz736@email.com,+11131290148
+C0737,Daniela Martinez,Ecuador,VIP,daniela.martinez737@email.com,+12778816093
+C0738,Carlos Diaz,Chile,Basic,carlos.diaz738@email.com,+18909728321
+C0739,Patricia Hernandez,Mexico,Basic,patricia.hernandez739@email.com,+16762515381
+C0740,Camila Reyes,Argentina,VIP,camila.reyes740@email.com,+14309634807
+C0741,Andrea Ramirez,Guatemala,Premium,andrea.ramirez741@email.com,+10975451052
+C0742,Miguel Gomez,Colombia,Premium,miguel.gomez742@email.com,+16731882617
+C0743,Carlos Hernandez,Chile,Basic,carlos.hernandez743@email.com,+17654562841
+C0744,Fernando Sanchez,Peru,Standard,fernando.sanchez744@email.com,+15605313402
+C0745,Miguel Diaz,Mexico,Basic,miguel.diaz745@email.com,+12374167872
+C0746,Roberto Ruiz,Peru,VIP,roberto.ruiz746@email.com,+11102258030
+C0747,Roberto Diaz,Costa Rica,Premium,roberto.diaz747@email.com,+17447163928
+C0748,Sofia Cruz,Colombia,Basic,sofia.cruz748@email.com,+14363718923
+C0749,Pablo Hernandez,Colombia,Standard,pablo.hernandez749@email.com,+12604326093
+C0750,Juan Lopez,Costa Rica,VIP,juan.lopez750@email.com,+18433567086
+C0751,Maria Reyes,Argentina,Premium,maria.reyes751@email.com,+15456350200
+C0752,Maria Torres,Argentina,Standard,maria.torres752@email.com,+17491624755
+C0753,Camila Garcia,Mexico,Premium,camila.garcia753@email.com,+18255598953
+C0754,Andres Morales,Colombia,VIP,andres.morales754@email.com,+11291093371
+C0755,Juan Mendez,Argentina,Basic,juan.mendez755@email.com,+17382023684
+C0756,Natalia Gomez,Panama,Basic,natalia.gomez756@email.com,+11617688029
+C0757,Andres Hernandez,Mexico,Basic,andres.hernandez757@email.com,+19036788127
+C0758,Jorge Ruiz,Costa Rica,VIP,jorge.ruiz758@email.com,+19432029390
+C0759,Jorge Sanchez,Argentina,Basic,jorge.sanchez759@email.com,+13448123083
+C0760,Camila Lopez,Argentina,Standard,camila.lopez760@email.com,+12403381059
+C0761,Patricia Torres,Ecuador,Premium,patricia.torres761@email.com,+14269450053
+C0762,Andres Rodriguez,Mexico,Basic,andres.rodriguez762@email.com,+18916498373
+C0763,Roberto Vargas,Dominican Republic,Standard,roberto.vargas763@email.com,+16273652717
+C0764,Sofia Sanchez,Peru,Standard,sofia.sanchez764@email.com,+13972404226
+C0765,Andrea Morales,Peru,Premium,andrea.morales765@email.com,+11637618209
+C0766,Ana Ruiz,Mexico,VIP,ana.ruiz766@email.com,+11002314290
+C0767,Carlos Garcia,Colombia,Basic,carlos.garcia767@email.com,+13279724572
+C0768,Valentina Lopez,Ecuador,Basic,valentina.lopez768@email.com,+11001841862
+C0769,Carlos Cruz,Chile,Premium,carlos.cruz769@email.com,+16625436172
+C0770,Ana Cruz,Argentina,Premium,ana.cruz770@email.com,+15195151092
+C0771,Sofia Diaz,Dominican Republic,Basic,sofia.diaz771@email.com,+12624945147
+C0772,Patricia Vargas,Mexico,Premium,patricia.vargas772@email.com,+12252677119
+C0773,Isabel Vargas,Colombia,Standard,isabel.vargas773@email.com,+15226557676
+C0774,Andrea Torres,Chile,Standard,andrea.torres774@email.com,+16687887883
+C0775,Miguel Perez,Ecuador,VIP,miguel.perez775@email.com,+19313503058
+C0776,Daniela Hernandez,Mexico,Premium,daniela.hernandez776@email.com,+15524728633
+C0777,Valentina Lopez,Colombia,Standard,valentina.lopez777@email.com,+12606501917
+C0778,Andrea Rodriguez,Peru,Premium,andrea.rodriguez778@email.com,+15213109622
+C0779,Daniela Hernandez,Panama,Basic,daniela.hernandez779@email.com,+16570412009
+C0780,Sofia Flores,Mexico,Standard,sofia.flores780@email.com,+16678498436
+C0781,Sofia Vargas,Ecuador,Premium,sofia.vargas781@email.com,+16236903628
+C0782,Andrea Perez,Panama,VIP,andrea.perez782@email.com,+15662056341
+C0783,Ana Perez,Dominican Republic,Basic,ana.perez783@email.com,+15034281139
+C0784,Carlos Reyes,Ecuador,Standard,carlos.reyes784@email.com,+13034199097
+C0785,Maria Lopez,Colombia,Basic,maria.lopez785@email.com,+14054683565
+C0786,Luis Garcia,Costa Rica,Basic,luis.garcia786@email.com,+18182096790
+C0787,Camila Rodriguez,Panama,Standard,camila.rodriguez787@email.com,+11133228898
+C0788,Roberto Sanchez,Guatemala,Standard,roberto.sanchez788@email.com,+14596063399
+C0789,Juan Hernandez,Colombia,VIP,juan.hernandez789@email.com,+10248171752
+C0790,Camila Rodriguez,Argentina,Premium,camila.rodriguez790@email.com,+19551127474
+C0791,Fernando Hernandez,Dominican Republic,Premium,fernando.hernandez791@email.com,+17054669275
+C0792,Jorge Ortega,Guatemala,Basic,jorge.ortega792@email.com,+11687409038
+C0793,Carlos Hernandez,Argentina,Premium,carlos.hernandez793@email.com,+16296136715
+C0794,Fernando Sanchez,Colombia,VIP,fernando.sanchez794@email.com,+11216636515
+C0795,Roberto Ortega,Chile,VIP,roberto.ortega795@email.com,+17147082723
+C0796,Roberto Castro,Dominican Republic,Premium,roberto.castro796@email.com,+16056730306
+C0797,Andres Vargas,Colombia,Standard,andres.vargas797@email.com,+12146147683
+C0798,Andres Rodriguez,Colombia,Premium,andres.rodriguez798@email.com,+16542356778
+C0799,Sofia Diaz,Dominican Republic,Basic,sofia.diaz799@email.com,+16089319925
+C0800,Roberto Martinez,Panama,Standard,roberto.martinez800@email.com,+12751648072
+C0801,Fernando Castro,Mexico,Premium,fernando.castro801@email.com,+13368296353
+C0802,Diego Castro,Guatemala,Premium,diego.castro802@email.com,+15044817766
+C0803,Patricia Gomez,Ecuador,VIP,patricia.gomez803@email.com,+15127652892
+C0804,Natalia Diaz,Argentina,VIP,natalia.diaz804@email.com,+16491111096
+C0805,Ana Ramirez,Panama,Premium,ana.ramirez805@email.com,+18904633786
+C0806,Ana Morales,Colombia,VIP,ana.morales806@email.com,+15766053844
+C0807,Andres Reyes,Chile,VIP,andres.reyes807@email.com,+10600025895
+C0808,Roberto Rodriguez,Chile,VIP,roberto.rodriguez808@email.com,+18639609626
+C0809,Sofia Ruiz,Ecuador,Basic,sofia.ruiz809@email.com,+12631281964
+C0810,Natalia Rodriguez,Chile,Basic,natalia.rodriguez810@email.com,+11106092098
+C0811,Juan Castro,Mexico,VIP,juan.castro811@email.com,+12752334383
+C0812,Miguel Vargas,Argentina,Premium,miguel.vargas812@email.com,+11209117911
+C0813,Luis Reyes,Peru,Basic,luis.reyes813@email.com,+11175361706
+C0814,Juan Ramirez,Chile,Premium,juan.ramirez814@email.com,+16657224029
+C0815,Andrea Lopez,Guatemala,Premium,andrea.lopez815@email.com,+15799802841
+C0816,Diego Ortega,Ecuador,Premium,diego.ortega816@email.com,+10882351305
+C0817,Luis Cruz,Peru,Premium,luis.cruz817@email.com,+14473158477
+C0818,Isabel Flores,Chile,VIP,isabel.flores818@email.com,+14234619942
+C0819,Diego Ramirez,Panama,VIP,diego.ramirez819@email.com,+16945919663
+C0820,Pablo Gomez,Colombia,Basic,pablo.gomez820@email.com,+17208496498
+C0821,Patricia Ruiz,Colombia,Premium,patricia.ruiz821@email.com,+12562531355
+C0822,Luis Torres,Mexico,Premium,luis.torres822@email.com,+15053795381
+C0823,Miguel Reyes,Ecuador,Standard,miguel.reyes823@email.com,+13184919665
+C0824,Roberto Morales,Mexico,Standard,roberto.morales824@email.com,+17704611729
+C0825,Roberto Castro,Chile,VIP,roberto.castro825@email.com,+19040907426
+C0826,Maria Mendez,Guatemala,Premium,maria.mendez826@email.com,+10171644556
+C0827,Juan Mendez,Panama,Basic,juan.mendez827@email.com,+19064771591
+C0828,Carlos Cruz,Mexico,Premium,carlos.cruz828@email.com,+12156321358
+C0829,Carlos Lopez,Mexico,Basic,carlos.lopez829@email.com,+11041459642
+C0830,Luis Castro,Colombia,VIP,luis.castro830@email.com,+12529671883
+C0831,Pablo Ramirez,Argentina,VIP,pablo.ramirez831@email.com,+15731441583
+C0832,Diego Perez,Panama,Premium,diego.perez832@email.com,+10303763715
+C0833,Diego Castro,Argentina,Basic,diego.castro833@email.com,+17281235679
+C0834,Jorge Morales,Chile,VIP,jorge.morales834@email.com,+11462491271
+C0835,Ana Cruz,Panama,Premium,ana.cruz835@email.com,+12407875418
+C0836,Juan Gomez,Chile,VIP,juan.gomez836@email.com,+12686850745
+C0837,Ana Lopez,Costa Rica,VIP,ana.lopez837@email.com,+13436294897
+C0838,Jorge Diaz,Mexico,Premium,jorge.diaz838@email.com,+13131009431
+C0839,Natalia Garcia,Chile,Basic,natalia.garcia839@email.com,+19666134732
+C0840,Diego Gomez,Dominican Republic,Basic,diego.gomez840@email.com,+14012897432
+C0841,Roberto Perez,Peru,Standard,roberto.perez841@email.com,+15720765024
+C0842,Juan Rodriguez,Dominican Republic,Premium,juan.rodriguez842@email.com,+15790737100
+C0843,Pablo Reyes,Ecuador,Standard,pablo.reyes843@email.com,+18221145775
+C0844,Natalia Vargas,Argentina,VIP,natalia.vargas844@email.com,+15705458971
+C0845,Andres Flores,Peru,Premium,andres.flores845@email.com,+16325703965
+C0846,Diego Perez,Costa Rica,Standard,diego.perez846@email.com,+11487824556
+C0847,Pablo Diaz,Argentina,Basic,pablo.diaz847@email.com,+13098591679
+C0848,Patricia Reyes,Mexico,Premium,patricia.reyes848@email.com,+17272849824
+C0849,Daniela Reyes,Argentina,Premium,daniela.reyes849@email.com,+10703491074
+C0850,Carlos Diaz,Mexico,Basic,carlos.diaz850@email.com,+10425488214
+C0851,Luis Morales,Dominican Republic,VIP,luis.morales851@email.com,+11430753666
+C0852,Ana Vargas,Dominican Republic,Basic,ana.vargas852@email.com,+14296592342
+C0853,Isabel Mendez,Argentina,Standard,isabel.mendez853@email.com,+14149782661
+C0854,Luis Flores,Guatemala,VIP,luis.flores854@email.com,+18575676670
+C0855,Natalia Martinez,Colombia,VIP,natalia.martinez855@email.com,+12943985298
+C0856,Pablo Reyes,Costa Rica,Premium,pablo.reyes856@email.com,+12607870104
+C0857,Ana Torres,Argentina,Premium,ana.torres857@email.com,+19750198038
+C0858,Luis Mendez,Peru,VIP,luis.mendez858@email.com,+13244079311
+C0859,Carlos Hernandez,Ecuador,Premium,carlos.hernandez859@email.com,+11331708760
+C0860,Ana Reyes,Panama,VIP,ana.reyes860@email.com,+12384979162
+C0861,Carlos Rodriguez,Chile,Standard,carlos.rodriguez861@email.com,+12883774419
+C0862,Daniela Gomez,Costa Rica,Basic,daniela.gomez862@email.com,+16176620471
+C0863,Pablo Ruiz,Dominican Republic,Premium,pablo.ruiz863@email.com,+14097052774
+C0864,Carlos Rodriguez,Ecuador,Basic,carlos.rodriguez864@email.com,+18358681225
+C0865,Pablo Torres,Peru,VIP,pablo.torres865@email.com,+14461767929
+C0866,Jorge Flores,Peru,Basic,jorge.flores866@email.com,+15995996100
+C0867,Sofia Cruz,Colombia,Premium,sofia.cruz867@email.com,+17753312661
+C0868,Maria Ortega,Colombia,Basic,maria.ortega868@email.com,+10175902517
+C0869,Miguel Hernandez,Chile,Standard,miguel.hernandez869@email.com,+14774332683
+C0870,Juan Castro,Colombia,Premium,juan.castro870@email.com,+13020569815
+C0871,Sofia Flores,Chile,VIP,sofia.flores871@email.com,+13978559821
+C0872,Fernando Diaz,Colombia,VIP,fernando.diaz872@email.com,+19128411730
+C0873,Andrea Mendez,Mexico,Basic,andrea.mendez873@email.com,+13446512418
+C0874,Pablo Cruz,Costa Rica,Basic,pablo.cruz874@email.com,+19081974005
+C0875,Isabel Vargas,Guatemala,Standard,isabel.vargas875@email.com,+10238503719
+C0876,Andrea Lopez,Colombia,Basic,andrea.lopez876@email.com,+16991872401
+C0877,Maria Ramirez,Guatemala,Standard,maria.ramirez877@email.com,+16743000389
+C0878,Miguel Martinez,Mexico,VIP,miguel.martinez878@email.com,+16626682171
+C0879,Andrea Gomez,Chile,Basic,andrea.gomez879@email.com,+15603319036
+C0880,Natalia Castro,Mexico,Premium,natalia.castro880@email.com,+13010272405
+C0881,Patricia Ortega,Argentina,Standard,patricia.ortega881@email.com,+12967111483
+C0882,Daniela Gomez,Panama,Standard,daniela.gomez882@email.com,+14584384588
+C0883,Ana Lopez,Costa Rica,Basic,ana.lopez883@email.com,+19741328348
+C0884,Diego Garcia,Peru,Basic,diego.garcia884@email.com,+10377107044
+C0885,Pablo Ruiz,Colombia,Basic,pablo.ruiz885@email.com,+10496706670
+C0886,Valentina Morales,Peru,VIP,valentina.morales886@email.com,+16804085095
+C0887,Andres Castro,Mexico,Standard,andres.castro887@email.com,+15966018648
+C0888,Fernando Diaz,Peru,Basic,fernando.diaz888@email.com,+16732044138
+C0889,Camila Torres,Mexico,VIP,camila.torres889@email.com,+19454490149
+C0890,Roberto Vargas,Panama,Standard,roberto.vargas890@email.com,+17070705783
+C0891,Isabel Lopez,Argentina,Premium,isabel.lopez891@email.com,+19851724447
+C0892,Luis Cruz,Peru,Standard,luis.cruz892@email.com,+19031028795
+C0893,Maria Mendez,Mexico,Standard,maria.mendez893@email.com,+14405809351
+C0894,Juan Flores,Colombia,VIP,juan.flores894@email.com,+18133595616
+C0895,Camila Hernandez,Guatemala,Premium,camila.hernandez895@email.com,+19556574902
+C0896,Patricia Lopez,Peru,Basic,patricia.lopez896@email.com,+19019358895
+C0897,Diego Ruiz,Peru,Premium,diego.ruiz897@email.com,+16113989868
+C0898,Ana Flores,Dominican Republic,Premium,ana.flores898@email.com,+17887543943
+C0899,Roberto Cruz,Chile,Basic,roberto.cruz899@email.com,+17513765158
+C0900,Jorge Perez,Panama,Basic,jorge.perez900@email.com,+19376392836
+C0901,Pablo Hernandez,Argentina,Basic,pablo.hernandez901@email.com,+15511668297
+C0902,Diego Rodriguez,Mexico,VIP,diego.rodriguez902@email.com,+12164871206
+C0903,Carlos Rodriguez,Peru,Premium,carlos.rodriguez903@email.com,+18866526834
+C0904,Ana Torres,Dominican Republic,Basic,ana.torres904@email.com,+19910157676
+C0905,Camila Ramirez,Peru,Standard,camila.ramirez905@email.com,+19812099576
+C0906,Roberto Sanchez,Ecuador,Standard,roberto.sanchez906@email.com,+19413475098
+C0907,Jorge Castro,Argentina,VIP,jorge.castro907@email.com,+15652203684
+C0908,Pablo Ortega,Colombia,Basic,pablo.ortega908@email.com,+15421447732
+C0909,Camila Vargas,Chile,Premium,camila.vargas909@email.com,+14213882090
+C0910,Natalia Mendez,Mexico,Standard,natalia.mendez910@email.com,+17053496782
+C0911,Fernando Reyes,Colombia,Premium,fernando.reyes911@email.com,+17674124151
+C0912,Valentina Perez,Peru,Basic,valentina.perez912@email.com,+18547815061
+C0913,Jorge Torres,Ecuador,Standard,jorge.torres913@email.com,+10032963347
+C0914,Luis Ramirez,Panama,Standard,luis.ramirez914@email.com,+14231830617
+C0915,Natalia Ortega,Peru,Standard,natalia.ortega915@email.com,+10649693578
+C0916,Sofia Reyes,Argentina,Standard,sofia.reyes916@email.com,+17769587413
+C0917,Ana Reyes,Panama,VIP,ana.reyes917@email.com,+15361275156
+C0918,Luis Ramirez,Dominican Republic,VIP,luis.ramirez918@email.com,+16304483608
+C0919,Roberto Vargas,Costa Rica,Basic,roberto.vargas919@email.com,+16766404735
+C0920,Maria Reyes,Costa Rica,VIP,maria.reyes920@email.com,+13928319952
+C0921,Andrea Mendez,Mexico,Premium,andrea.mendez921@email.com,+16155810835
+C0922,Natalia Morales,Ecuador,Standard,natalia.morales922@email.com,+16342556383
+C0923,Carlos Lopez,Ecuador,Premium,carlos.lopez923@email.com,+11867024403
+C0924,Valentina Lopez,Colombia,Basic,valentina.lopez924@email.com,+16624111860
+C0925,Carlos Mendez,Colombia,Standard,carlos.mendez925@email.com,+19639456804
+C0926,Andres Sanchez,Colombia,Standard,andres.sanchez926@email.com,+14976461368
+C0927,Andres Ramirez,Ecuador,Basic,andres.ramirez927@email.com,+18360765817
+C0928,Valentina Castro,Costa Rica,Premium,valentina.castro928@email.com,+13757914521
+C0929,Ana Mendez,Chile,Standard,ana.mendez929@email.com,+17931269789
+C0930,Valentina Lopez,Argentina,VIP,valentina.lopez930@email.com,+16452059960
+C0931,Andres Morales,Ecuador,VIP,andres.morales931@email.com,+17535778811
+C0932,Isabel Perez,Peru,VIP,isabel.perez932@email.com,+10281237106
+C0933,Daniela Rodriguez,Peru,VIP,daniela.rodriguez933@email.com,+18660416448
+C0934,Roberto Ortega,Dominican Republic,Basic,roberto.ortega934@email.com,+12248395894
+C0935,Daniela Sanchez,Guatemala,Standard,daniela.sanchez935@email.com,+12287056227
+C0936,Juan Martinez,Chile,Basic,juan.martinez936@email.com,+13187510979
+C0937,Sofia Perez,Ecuador,Basic,sofia.perez937@email.com,+13503446945
+C0938,Andrea Ruiz,Ecuador,Basic,andrea.ruiz938@email.com,+18319213424
+C0939,Pablo Garcia,Ecuador,Standard,pablo.garcia939@email.com,+19659994973
+C0940,Sofia Martinez,Chile,Standard,sofia.martinez940@email.com,+11922270510
+C0941,Luis Flores,Costa Rica,VIP,luis.flores941@email.com,+17548138666
+C0942,Daniela Gomez,Ecuador,Basic,daniela.gomez942@email.com,+15819324268
+C0943,Fernando Ramirez,Colombia,Basic,fernando.ramirez943@email.com,+18652057563
+C0944,Andrea Mendez,Costa Rica,Standard,andrea.mendez944@email.com,+15203758309
+C0945,Camila Torres,Guatemala,Premium,camila.torres945@email.com,+14809404760
+C0946,Andres Vargas,Dominican Republic,Premium,andres.vargas946@email.com,+10797727810
+C0947,Patricia Martinez,Peru,Standard,patricia.martinez947@email.com,+12161070518
+C0948,Andres Morales,Guatemala,Premium,andres.morales948@email.com,+15295806601
+C0949,Diego Flores,Argentina,Standard,diego.flores949@email.com,+11270493862
+C0950,Carlos Reyes,Ecuador,Basic,carlos.reyes950@email.com,+15157919711
+C0951,Juan Rodriguez,Peru,Premium,juan.rodriguez951@email.com,+15902035713
+C0952,Camila Morales,Argentina,Standard,camila.morales952@email.com,+10642429563
+C0953,Diego Vargas,Peru,Standard,diego.vargas953@email.com,+14474175955
+C0954,Jorge Sanchez,Mexico,Standard,jorge.sanchez954@email.com,+19628936543
+C0955,Roberto Flores,Colombia,Basic,roberto.flores955@email.com,+18343740182
+C0956,Daniela Hernandez,Dominican Republic,VIP,daniela.hernandez956@email.com,+15596905150
+C0957,Sofia Diaz,Guatemala,VIP,sofia.diaz957@email.com,+15125427820
+C0958,Fernando Ortega,Dominican Republic,VIP,fernando.ortega958@email.com,+19667345957
+C0959,Miguel Reyes,Chile,Premium,miguel.reyes959@email.com,+18166496902
+C0960,Jorge Rodriguez,Dominican Republic,Basic,jorge.rodriguez960@email.com,+18392250142
+C0961,Patricia Sanchez,Peru,VIP,patricia.sanchez961@email.com,+17023244123
+C0962,Diego Diaz,Chile,Premium,diego.diaz962@email.com,+12850725178
+C0963,Miguel Morales,Costa Rica,VIP,miguel.morales963@email.com,+17316252654
+C0964,Isabel Ortega,Ecuador,VIP,isabel.ortega964@email.com,+11579039235
+C0965,Patricia Torres,Dominican Republic,Premium,patricia.torres965@email.com,+19613273034
+C0966,Isabel Perez,Costa Rica,Basic,isabel.perez966@email.com,+12624467046
+C0967,Sofia Rodriguez,Ecuador,VIP,sofia.rodriguez967@email.com,+11715160252
+C0968,Pablo Flores,Panama,VIP,pablo.flores968@email.com,+10766046419
+C0969,Fernando Flores,Panama,Basic,fernando.flores969@email.com,+15851268612
+C0970,Carlos Torres,Chile,Basic,carlos.torres970@email.com,+18976074017
+C0971,Fernando Gomez,Dominican Republic,Premium,fernando.gomez971@email.com,+15465408424
+C0972,Patricia Diaz,Panama,Premium,patricia.diaz972@email.com,+15409150863
+C0973,Sofia Perez,Peru,Premium,sofia.perez973@email.com,+12764579389
+C0974,Fernando Lopez,Guatemala,Premium,fernando.lopez974@email.com,+15029168154
+C0975,Isabel Ruiz,Peru,Premium,isabel.ruiz975@email.com,+14161394498
+C0976,Natalia Cruz,Guatemala,Premium,natalia.cruz976@email.com,+19736424809
+C0977,Miguel Rodriguez,Argentina,Basic,miguel.rodriguez977@email.com,+10630624479
+C0978,Roberto Garcia,Chile,Standard,roberto.garcia978@email.com,+10531949796
+C0979,Andrea Torres,Panama,VIP,andrea.torres979@email.com,+18055557277
+C0980,Diego Mendez,Costa Rica,Standard,diego.mendez980@email.com,+14609178513
+C0981,Jorge Gomez,Argentina,Basic,jorge.gomez981@email.com,+15770299295
+C0982,Pablo Diaz,Mexico,VIP,pablo.diaz982@email.com,+14873682691
+C0983,Ana Ruiz,Chile,Standard,ana.ruiz983@email.com,+11942268653
+C0984,Isabel Ortega,Guatemala,Basic,isabel.ortega984@email.com,+15158886367
+C0985,Fernando Reyes,Peru,VIP,fernando.reyes985@email.com,+12640857216
+C0986,Pablo Diaz,Costa Rica,VIP,pablo.diaz986@email.com,+13093299819
+C0987,Pablo Diaz,Guatemala,Premium,pablo.diaz987@email.com,+19329715096
+C0988,Natalia Flores,Peru,Standard,natalia.flores988@email.com,+17532735241
+C0989,Carlos Morales,Panama,VIP,carlos.morales989@email.com,+13973278195
+C0990,Sofia Cruz,Colombia,VIP,sofia.cruz990@email.com,+10068761648
+C0991,Ana Ortega,Panama,Premium,ana.ortega991@email.com,+17046056876
+C0992,Ana Garcia,Argentina,Standard,ana.garcia992@email.com,+19125652373
+C0993,Andres Garcia,Colombia,Basic,andres.garcia993@email.com,+17734547574
+C0994,Pablo Vargas,Peru,Premium,pablo.vargas994@email.com,+12840359544
+C0995,Sofia Castro,Panama,Basic,sofia.castro995@email.com,+17422294643
+C0996,Carlos Morales,Peru,Basic,carlos.morales996@email.com,+19045886792
+C0997,Patricia Hernandez,Ecuador,Basic,patricia.hernandez997@email.com,+15672872760
+C0998,Juan Torres,Argentina,Standard,juan.torres998@email.com,+13324913577
+C0999,Pablo Martinez,Chile,Standard,pablo.martinez999@email.com,+15061581488
+C1000,Natalia Perez,Panama,Premium,natalia.perez1000@email.com,+19833423372

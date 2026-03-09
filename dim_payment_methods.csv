@@ -1,0 +1,7 @@
+payment_method_id,payment_method_name
+PM01,Credit Card
+PM02,ACH
+PM03,Cash
+PM04,Bank Transfer
+PM05,Debit Card
+PM06,Digital Wallet

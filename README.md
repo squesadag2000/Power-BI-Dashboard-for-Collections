@@ -11,7 +11,7 @@ This project provides a fully functional Power BI dashboard built on simulated c
 The dashboard is organized into 3 report pages:
 - **Executive Summary** — KPIs, aging buckets, recovery trend, product distribution
 - **Portfolio Management** — Collections rate by country, payment method, and agent performance
-- **Collections Operations** — Contact rate heatmap, collection funnel, promise tracking
+- **Collections Operations** — Contact rate heatmap, contact rates, top accounts
 
 ---
 
